@@ -9,6 +9,25 @@ st.set_page_config(page_title="Enterprise Access Auditor", layout="wide")
 st.title("Enterprise Access Auditor")
 st.markdown("Automated processing, validation, and visualization of endpoint security logs.")
 
+# --- NEW FEATURE: Recruiter Test Data Download ---
+st.info("👋 **Want to test the application?** \n\n"
+        "To test this pipeline, download the synthetic dataset below and drop it into the file uploader.")
+
+# Provide the test file as a direct download in the UI
+try:
+    with open("synthetic_audit_logs.csv", "rb") as test_file:
+        st.download_button(
+            label="📥 Download Test Data (synthetic_audit_logs.csv)",
+            data=test_file,
+            file_name="synthetic_audit_logs.csv",
+            mime="text/csv"
+        )
+except FileNotFoundError:
+    st.warning("Test data file not found. Please ensure 'synthetic_audit_logs.csv' is uploaded to the repository.")
+
+st.divider()
+# ------------------------------------------------
+
 # File uploader and optional inputs
 uploaded_file = st.file_uploader("Upload Raw Audit CSV", type=['csv'])
 analyst = st.text_input("Analyst Name (Optional)", value="Sourav")
