@@ -11,6 +11,7 @@
 ![Streamlit Dashboard](dashboard.png)
 
 ## 📌 Project Overview
+This framework can be easily adapted to automate repetitive manual task, reporting, process data, and build visualizations across any industry.
 
 ## 💡 Business Impact & ROI: Return on Investment
 This automation was engineered to resolve a critical operational bottleneck. Previously, processing these complex security datasets required **90 minutes of daily manual effort** per team member and involved over **30 repetitive steps** in Excel, making the process highly susceptible to human error. 
@@ -70,12 +71,7 @@ streamlit run app.py
 
 
 👨‍💻 Author
-
-Sourav Dutta
-
-    LinkedIn: www.linkedin.com/in/sourav-dutta-15314b430
-
-    Focus: Data Automation | Python Engineering | Data Visualization
-
-
+**Sourav Dutta**
+* **LinkedIn:** [Sourav Dutta](https://www.linkedin.com/in/sourav-dutta-15314b430)
+* **Focus:** Data Automation | Python Engineering | Data Visualization
 
