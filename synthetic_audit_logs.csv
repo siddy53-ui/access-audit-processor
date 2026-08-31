@@ -1,0 +1,1051 @@
+Hostname,Event_Type,Target_Group,Account_ID,Timestamp
+EMAIL-97.QUINN.NET,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\thompsonchristopher,2026-08-08 22:18:07
+DB-89.DAVIS-NELSON.COM,User account locked out,Administrators,CORP\zguzman,2026-08-18 08:07:11
+WEB-53.POWELL.ORG,Logon failure,Marketing_Share,GUEST\francisco47,2026-08-19 19:00:57
+WEB-17.SINGLETON.COM,User account locked out,Domain Admins,GUEST\patrickberry,2026-08-30 11:37:07
+SRV-17.PATEL.COM,User account locked out,Domain Admins,DEV\linda47,2026-08-16 07:51:36
+EMAIL-38.BENTLEY.INFO,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\SVC_gloria81,2026-08-01 15:13:35
+DESKTOP-76.DAVIDSON.COM,Logon failure,IT_Helpdesk,GUEST\wattsscott,2026-08-27 16:24:23
+SRV-01.LEWIS.COM,User account locked out,Remote Desktop Users,CORP\sullivantravis,2026-08-07 10:49:36
+DB-84.CARROLL.NET,A member was added to a security-enabled global group,All_Staff_Read_Only,GUEST\edward60,2026-08-20 20:43:56
+SRV-45.GONZALEZ.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\SVC_samantha56,2026-08-03 07:45:32
+LAPTOP-83.DOUGLAS.COM,Logon failure,Administrators,CORP\SVC_matthewwatkins,2026-08-07 10:01:48
+LT-08.CONLEY-CARSON.ORG,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\SVC_toddpeters,2026-08-23 00:25:41
+SRV-55.WELCH.COM,A member was added to a security-enabled local group,Marketing_Share,DEV\nwalters,2026-08-21 11:04:27
+WEB-51.SHAH.COM,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\kaylee77,2026-08-18 11:52:15
+LT-53.LEWIS-FOLEY.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\richard88,2026-08-12 05:00:38
+LAPTOP-95.OLSEN-SMITH.COM,A member was added to a security-enabled local group,Administrators,DEV\heathergonzalez,2026-08-12 03:13:47
+EMAIL-18.WILLIAMS-THOMPSON.COM,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\aromero,2026-08-20 03:51:07
+LAPTOP-09.REED.COM,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\jonesjonathan,2026-08-10 18:32:51
+DB-40.CHAVEZ.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\adam86,2026-08-20 01:26:56
+SRV-42.THOMAS.COM,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_lisa55,2026-08-21 12:30:06
+EMAIL-62.BRADLEY-CRAIG.COM,A member was removed from a security-enabled local group,Domain Admins,DEV\SVC_uhunter,2026-08-20 13:15:36
+DESKTOP-59.GORDON.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\andreamclean,2026-08-09 15:53:44
+WEB-02.FRAZIER-GRAY.INFO,A member was added to a security-enabled global group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\mark03,2026-08-23 13:51:27
+DB-08.GLASS.COM,User account locked out,IT_Helpdesk,CORP\bmontgomery,2026-08-03 02:11:33
+EMAIL-40.WHITE-WEAVER.NET,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\andrearodriguez,2026-08-28 00:30:08
+LAPTOP-13.JOHNSON.COM,Logon failure,IT_Helpdesk,DEV\SVC_fisherstuart,2026-08-06 18:57:08
+WEB-00.DOUGLAS-NGUYEN.BIZ,Logon failure,Marketing_Share,DEV\kjohnson,2026-08-22 19:03:42
+DESKTOP-03.WILSON-GUERRA.COM,A member was added to a security-enabled local group,Marketing_Share,CORP\barrydaniel,2026-08-09 02:06:07
+DB-47.CAMACHO.INFO,A member was added to a security-enabled global group,IT_Helpdesk,DEV\chaseadams,2026-08-26 14:56:18
+SRV-26.RAMOS-GOMEZ.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\tonya98,2026-08-16 13:13:44
+WEB-26.MENDOZA.COM,Logon failure,Remote Desktop Users,CORP\rodriguezveronica,2026-08-30 20:14:09
+WEB-18.ROBLES.COM,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\johnshaw,2026-08-10 08:08:46
+LT-06.CHUNG-JONES.INFO,User account locked out,Marketing_Share,CORP\melissa03,2026-08-18 15:38:31
+LAPTOP-94.COOPER-WILLIAMS.COM,A member was added to a security-enabled global group,IT_Helpdesk,CORP\SVC_stacy19,2026-08-12 07:02:44
+LAPTOP-94.JOHNSON.COM,A member was added to a security-enabled global group,Domain Admins,CORP\richardherrera,2026-08-05 08:08:37
+LAPTOP-87.RICHARDSON.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\lowebrandon,2026-08-11 10:55:28
+EMAIL-53.FISHER.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\connorwilliams,2026-08-30 18:37:12
+DESKTOP-17.LUNA-BRIGGS.COM,Logon failure,IT_Helpdesk,CORP\SVC_evansmark,2026-08-23 22:28:43
+EMAIL-72.NOVAK.COM,User account locked out,IT_Helpdesk,GUEST\terrispencer,2026-08-29 20:17:14
+WEB-17.BARNETT.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\qhoward,2026-08-28 22:06:23
+LT-19.HULL-ANDERSON.COM,User account locked out,Marketing_Share,DEV\clayton91,2026-08-15 22:59:50
+EMAIL-71.GREENE.INFO,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\TEMP_fitzpatricklaurie,2026-08-03 23:20:09
+SRV-39.MORRIS-SEXTON.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\karenharris,2026-08-11 01:28:04
+LT-21.JIMENEZ.COM,User account locked out,Marketing_Share,GUEST\ltownsend,2026-08-16 19:14:42
+LAPTOP-98.JOHNSON.BIZ,Logon failure,Domain Admins,CORP\SVC_cnewman,2026-08-26 04:55:25
+SRV-05.EDWARDS-COLLINS.INFO,Logon failure,IT_Helpdesk,CORP\smithjason,2026-08-31 09:38:11
+WEB-58.BAUTISTA.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\SVC_petersencindy,2026-08-22 01:59:51
+DB-57.BARNES.COM,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\gillsean,2026-08-03 20:56:44
+LT-41.INGRAM.ORG,A member was added to a security-enabled local group,Remote Desktop Users,GUEST\juliewilliams,2026-08-01 18:15:56
+WEB-98.STOUT-MCNEIL.INFO,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\qdelacruz,2026-08-30 22:18:13
+WEB-14.HILL.NET,A member was added to a security-enabled global group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\spencerrobert,2026-08-03 13:19:21
+EMAIL-77.BARRON-AYERS.COM,Logon failure,Domain Admins,DEV\gerald51,2026-08-26 02:28:23
+DESKTOP-65.FLORES-GREEN.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\qbarrett,2026-08-26 00:37:35
+DESKTOP-30.CRAWFORD-PETERSON.BIZ,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\colleen07,2026-08-22 21:20:30
+LAPTOP-92.ZUNIGA.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\ggibbs,2026-08-06 10:52:26
+WEB-54.LOPEZ-JONES.BIZ,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\SVC_ihall,2026-08-17 21:28:51
+WEB-07.SANDERS.INFO,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\SVC_hendricksjulie,2026-08-10 01:54:51
+LAPTOP-79.FRANCO.ORG,User account locked out,Domain Admins,CORP\victoria01,2026-08-22 09:24:53
+EMAIL-76.JIMENEZ-WILLIAMS.INFO,A member was added to a security-enabled local group,IT_Helpdesk,CORP\trivera,2026-08-09 07:22:12
+WEB-28.WELCH.ORG,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\russellcarolyn,2026-08-31 03:41:12
+DB-31.BROWN.ORG,A member was added to a security-enabled local group,IT_Helpdesk,DEV\morgan30,2026-08-01 07:16:53
+EMAIL-73.BLAIR-MOODY.BIZ,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\morrisjoseph,2026-08-20 14:30:00
+DB-94.HESS.NET,User account locked out,Marketing_Share,CORP\johnhodges,2026-08-11 22:46:29
+LAPTOP-61.GARZA.ORG,Logon failure,Remote Desktop Users,GUEST\TEMP_kristenhernandez,2026-08-15 01:27:09
+WEB-68.SMITH-HOFFMAN.NET,Logon failure,IT_Helpdesk,DEV\SVC_pughryan,2026-08-21 05:59:12
+EMAIL-51.TURNER.COM,User account locked out,Marketing_Share,GUEST\westmichael,2026-08-31 07:09:22
+DESKTOP-77.WILLIAMS.INFO,User account locked out,IT_Helpdesk,GUEST\plewis,2026-08-03 15:23:48
+LT-06.PROCTOR.NET,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\briannawilliamson,2026-08-31 01:50:31
+DESKTOP-97.POOLE.BIZ,Logon failure,IT_Helpdesk,DEV\jroberts,2026-08-22 02:36:15
+LAPTOP-07.AVERY.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\josephrobles,2026-08-15 13:00:23
+DESKTOP-15.NELSON.COM,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\irwindavid,2026-08-06 13:50:50
+EMAIL-08.AGUIRRE.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\taterachel,2026-08-12 05:12:40
+EMAIL-25.SANDOVAL-JOHNSON.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\nathandaniels,2026-08-04 02:52:17
+LAPTOP-00.BOWMAN.COM,Logon failure,IT_Helpdesk,GUEST\vmclaughlin,2026-08-18 23:15:30
+LAPTOP-23.ALLEN.COM,User account locked out,Domain Admins,GUEST\shawn50,2026-08-10 18:57:53
+DESKTOP-61.RANDOLPH-JONES.BIZ,A member was added to a security-enabled global group,Remote Desktop Users,CORP\ronald84,2026-08-21 19:46:48
+DB-40.CHAVEZ.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\adam86,2026-08-20 01:26:56
+DESKTOP-93.JOHNSON-MCPHERSON.COM,A member was added to a security-enabled global group,Remote Desktop Users,CORP\kmiles,2026-08-05 05:01:30
+WEB-79.COLLINS.COM,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_yhernandez,2026-08-13 14:11:36
+DESKTOP-46.JAMES-LEON.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\stoneruth,2026-08-11 11:21:39
+LT-09.CHANEY-HAWKINS.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\warnerebony,2026-08-02 16:47:31
+DB-56.JOHNSON.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,DEV\allison95,2026-08-10 01:56:01
+LT-29.BRENNAN-CARLSON.ORG,A member was added to a security-enabled global group,Domain Admins,DEV\andrewsrobert,2026-08-16 02:27:49
+EMAIL-05.HAMMOND.COM,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\eric30,2026-08-16 01:34:01
+DESKTOP-45.SALAZAR.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_jeffrey08,2026-08-08 21:15:29
+SRV-53.SMITH.COM,User account locked out,Marketing_Share,CORP\vaughncolleen,2026-08-01 21:26:57
+WEB-22.TUCKER-HERNANDEZ.INFO,A member was added to a security-enabled global group,Administrators,DEV\shayes,2026-08-22 10:56:27
+LT-47.JONES-WILLIAMS.COM,User account locked out,IT_Helpdesk,CORP\richard98,2026-08-08 23:24:24
+WEB-93.BELTRAN.ORG,A member was added to a security-enabled local group,Marketing_Share,CORP\tylerdrake,2026-08-12 16:56:43
+DB-12.ORTIZ-WAGNER.COM,Logon failure,Domain Admins,DEV\lambertmisty,2026-08-11 06:53:53
+DB-55.EVANS-HENDRICKS.BIZ,A member was added to a security-enabled local group,All_Staff_Read_Only,GUEST\SVC_tanner50,2026-08-23 06:51:24
+WEB-41.EDWARDS-JOHNSON.COM,User account locked out,Marketing_Share,GUEST\maria23,2026-08-19 04:57:06
+EMAIL-85.KNIGHT.BIZ,Logon failure,All_Staff_Read_Only,CORP\hpowell,2026-08-23 02:25:13
+EMAIL-13.TORRES.COM,User account locked out,IT_Helpdesk,CORP\deannalopez,2026-08-02 06:18:18
+LT-94.WILKINSON-REYNOLDS.COM,Logon failure,Marketing_Share,CORP\amy82,2026-08-25 19:52:05
+LT-24.CHANG.COM,User account locked out,Marketing_Share,CORP\andersonandrea,2026-08-07 12:04:30
+EMAIL-50.WIGGINS-WRIGHT.ORG,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\charlesstewart,2026-08-09 07:41:52
+WEB-10.BUCHANAN-JOHNSON.COM,User account locked out,Administrators,CORP\william92,2026-08-24 01:06:46
+DESKTOP-72.VANG-DEAN.COM,Logon failure,IT_Helpdesk,CORP\natasha22,2026-08-20 08:36:34
+LAPTOP-65.FIGUEROA-MORRIS.BIZ,A member was added to a security-enabled global group,Domain Admins,DEV\SVC_bethmorrow,2026-08-10 23:17:04
+WEB-72.LOPEZ-RIDDLE.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\tprince,2026-08-03 01:06:47
+WEB-95.TORRES.COM,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\pmartinez,2026-08-05 22:04:18
+LT-03.CARTER.BIZ,User account locked out,All_Staff_Read_Only,DEV\brianwalker,2026-08-24 17:18:11
+DB-32.TORRES.COM,User account locked out,Domain Admins,GUEST\christopher15,2026-08-29 07:18:14
+LT-29.BRENNAN-CARLSON.ORG,A member was added to a security-enabled global group,Domain Admins,DEV\andrewsrobert,2026-08-16 02:27:49
+LT-60.PEREZ-COOK.COM,User account locked out,Domain Admins,GUEST\ramirezmichael,2026-08-14 04:17:54
+LT-66.COCHRAN.COM,A member was added to a security-enabled global group,IT_Helpdesk,DEV\andrewslauren,2026-08-31 04:24:55
+WEB-49.COLLINS.COM,User account locked out,Remote Desktop Users,DEV\michaelvaughn,2026-08-25 04:48:04
+EMAIL-37.GREEN.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,CORP\krista55,2026-08-21 07:16:58
+LT-05.SMITH.INFO,User account locked out,IT_Helpdesk,GUEST\scottlawrence,2026-08-04 08:26:30
+DESKTOP-64.SALINAS-FOSTER.COM,A member was added to a security-enabled global group,IT_Helpdesk,DEV\kedwards,2026-08-20 23:19:21
+DESKTOP-79.JOHNSON.COM,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\pconway,2026-08-04 18:10:10
+LAPTOP-43.KELLY.COM,A member was added to a security-enabled global group,Marketing_Share,DEV\andrew32,2026-08-02 12:46:47
+LAPTOP-12.GEORGE-PACHECO.COM,A member was added to a security-enabled global group,Remote Desktop Users,CORP\samantha41,2026-08-16 05:51:45
+EMAIL-05.DAVIDSON-LEE.ORG,A member was added to a security-enabled global group,Domain Admins,GUEST\jimenezjesse,2026-08-12 09:43:18
+SRV-99.KELLY.COM,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\markanderson,2026-08-18 23:05:31
+EMAIL-73.VILLARREAL-ROSS.NET,A member was removed from a security-enabled local group,Domain Admins,GUEST\zglover,2026-08-13 06:00:49
+DESKTOP-39.RAYMOND.INFO,A member was added to a security-enabled local group,Marketing_Share,CORP\reillydennis,2026-08-05 03:03:29
+DESKTOP-20.HARDY-MILLER.COM,User account locked out,Domain Admins,GUEST\SVC_fweiss,2026-08-16 19:53:27
+SRV-95.HERNANDEZ.COM,Logon failure,All_Staff_Read_Only,CORP\kimberlythompson,2026-08-30 21:01:39
+LT-11.TURNER.COM,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\kevin14,2026-08-03 11:50:49
+LAPTOP-06.SANTIAGO-RAMSEY.COM,User account locked out,All_Staff_Read_Only,GUEST\TEMP_rgamble,2026-08-21 07:51:47
+SRV-12.JONES-REYNOLDS.BIZ,A member was added to a security-enabled global group,Marketing_Share,GUEST\morenocristina,2026-08-19 18:53:12
+WEB-07.HAYES-BARNES.NET,A member was removed from a security-enabled local group,Administrators,GUEST\fli,2026-08-28 02:28:04
+LAPTOP-09.HOWELL-ODONNELL.ORG,User account locked out,Domain Admins,DEV\tcook,2026-08-08 19:00:10
+WEB-35.AGUILAR.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\dmoore,2026-08-03 06:21:53
+LT-38.BYRD.NET,A member was removed from a security-enabled local group,Marketing_Share,DEV\evelynbeck,2026-08-22 21:07:01
+DESKTOP-32.JONES.COM,Logon failure,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\collinspatricia,2026-08-02 20:49:37
+LT-96.ZIMMERMAN.COM,Logon failure,Administrators,DEV\wcrosby,2026-08-12 07:24:26
+LAPTOP-91.GONZALEZ-MCBRIDE.COM,User account locked out,Administrators,DEV\christopher99,2026-08-22 00:21:41
+LAPTOP-09.MARKS-LI.COM,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\dennisschneider,2026-08-26 21:34:38
+SRV-59.ANDERSEN.NET,Logon failure,All_Staff_Read_Only,CORP\tbarrett,2026-08-06 08:15:46
+WEB-40.REED.COM,A member was added to a security-enabled global group,Domain Admins,OLD_DOMAIN.LEGACY.COM\jessica08,2026-08-29 05:21:06
+SRV-70.HERNANDEZ.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\peter16,2026-08-26 16:00:59
+DESKTOP-10.FERNANDEZ.BIZ,Logon failure,Marketing_Share,CORP\SVC_bondelizabeth,2026-08-03 18:33:12
+LT-43.WATERS.COM,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\clarence71,2026-08-15 03:04:48
+SRV-80.YANG.INFO,A member was removed from a security-enabled local group,Administrators,CORP\sharonkemp,2026-08-10 03:53:27
+LT-68.ACOSTA.COM,A member was added to a security-enabled local group,Administrators,GUEST\TEMP_mendezallison,2026-08-15 11:58:48
+SRV-33.PEREZ.NET,User account locked out,All_Staff_Read_Only,CORP\sarroyo,2026-08-30 19:46:15
+DB-71.DIXON-SMITH.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\nicole96,2026-08-17 03:41:46
+LT-05.RICHARDSON-SMITH.COM,A member was added to a security-enabled global group,IT_Helpdesk,CORP\jose06,2026-08-20 05:14:49
+LT-87.GARCIA-MOSLEY.COM,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\SVC_rebecca61,2026-08-07 23:57:55
+DB-24.FLOWERS.COM,User account locked out,IT_Helpdesk,GUEST\schwartzstacey,2026-08-15 10:19:45
+DESKTOP-26.HERNANDEZ-MARTINEZ.NET,Logon failure,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\khunt,2026-08-08 14:29:42
+EMAIL-40.JAMES.BIZ,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\amanda55,2026-08-14 12:14:34
+DESKTOP-52.WHITE-MCKINNEY.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\olivia32,2026-08-26 12:05:06
+SRV-05.HAMMOND.COM,Logon failure,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\dhenry,2026-08-19 08:46:47
+LAPTOP-59.HURLEY.COM,A member was added to a security-enabled local group,Domain Admins,DEV\guzmanwilliam,2026-08-14 03:00:04
+WEB-41.FITZPATRICK.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\susan85,2026-08-04 08:22:36
+DB-47.CAMACHO.INFO,A member was added to a security-enabled global group,IT_Helpdesk,DEV\chaseadams,2026-08-26 14:56:18
+LT-55.WOOD.COM,A member was added to a security-enabled local group,Domain Admins,CORP\april16,2026-08-08 17:05:42
+DESKTOP-77.EATON.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\dana71,2026-08-20 14:53:50
+LT-29.JAMES.COM,A member was added to a security-enabled global group,Administrators,CORP\hartdana,2026-08-31 12:42:36
+EMAIL-04.BROWN-THOMPSON.COM,A member was added to a security-enabled local group,Remote Desktop Users,DEV\lmolina,2026-08-04 04:07:20
+WEB-99.JENSEN.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\brandon40,2026-08-29 16:10:12
+LAPTOP-49.HARRIS-MARTINEZ.COM,A member was added to a security-enabled global group,Administrators,DEV\brenda73,2026-08-21 19:59:20
+EMAIL-04.LEWIS.COM,User account locked out,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\lsoto,2026-08-29 00:40:12
+LT-18.WAGNER.INFO,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\hmcgee,2026-08-17 01:23:54
+SRV-23.ROBBINS.COM,A member was added to a security-enabled global group,Domain Admins,CORP\jenniferpatel,2026-08-05 06:40:13
+DB-38.JOHNSON.ORG,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\ronaldwhite,2026-08-28 21:05:12
+LAPTOP-03.BROWN-BRADSHAW.NET,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\wyoung,2026-08-20 23:49:39
+SRV-13.MILLER.COM,A member was added to a security-enabled local group,Domain Admins,DEV\lisamacias,2026-08-23 16:44:24
+DESKTOP-00.JACKSON.COM,A member was added to a security-enabled global group,Remote Desktop Users,DEV\SVC_kathleen02,2026-08-14 11:35:03
+DB-21.LEONARD.NET,User account locked out,All_Staff_Read_Only,CORP\kevin90,2026-08-20 16:43:42
+DB-58.WILLIAMS-WILLIAMS.BIZ,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\gzhang,2026-08-24 07:45:49
+DESKTOP-70.BUTLER-VASQUEZ.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\SVC_jacquelinecole,2026-08-28 08:43:20
+LAPTOP-92.ZUNIGA.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\ggibbs,2026-08-06 10:52:26
+LAPTOP-54.IBARRA-WAGNER.INFO,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\valerie25,2026-08-18 10:18:52
+LAPTOP-02.COLEMAN-PETTY.COM,A member was added to a security-enabled global group,Domain Admins,CORP\fowlerrenee,2026-08-05 06:12:27
+LT-94.HINES-GUZMAN.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\derekclark,2026-08-15 02:52:20
+LAPTOP-98.ANDERSEN.INFO,Logon failure,All_Staff_Read_Only,GUEST\obuckley,2026-08-01 14:26:46
+LAPTOP-26.JONES.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\suttonbrian,2026-08-22 02:02:51
+DESKTOP-66.GRIFFIN.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\jacksonsydney,2026-08-27 11:55:16
+SRV-91.HUGHES.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\melissa76,2026-08-30 03:44:53
+SRV-21.MOORE.COM,Logon failure,Administrators,CORP\TEMP_ogonzalez,2026-08-06 06:52:39
+LT-66.CLARK-RAMSEY.COM,A member was added to a security-enabled local group,Administrators,GUEST\cynthia98,2026-08-27 07:26:15
+EMAIL-85.WASHINGTON-GORDON.NET,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\bethharris,2026-08-20 23:44:43
+EMAIL-85.CLARKE.ORG,A member was removed from a security-enabled local group,Administrators,CORP\TEMP_michael93,2026-08-05 17:13:43
+EMAIL-97.QUINN.NET,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\thompsonchristopher,2026-08-08 22:18:07
+EMAIL-89.HARRISON.COM,User account locked out,IT_Helpdesk,CORP\burgessjared,2026-08-29 19:11:14
+LAPTOP-23.SMITH-GRIFFIN.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\ericbarnett,2026-08-11 08:55:59
+LAPTOP-27.GILBERT.COM,A member was removed from a security-enabled local group,Administrators,GUEST\gonzalesjose,2026-08-25 08:16:56
+WEB-39.MILLER-SMITH.ORG,Logon failure,Remote Desktop Users,CORP\oruiz,2026-08-09 05:15:52
+SRV-13.MARSHALL-BELL.COM,Logon failure,All_Staff_Read_Only,DEV\jobrien,2026-08-20 10:16:07
+WEB-25.TERRY.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\oadams,2026-08-31 07:43:19
+LT-55.RODRIGUEZ.INFO,A member was added to a security-enabled local group,IT_Helpdesk,CORP\dennisrebecca,2026-08-22 08:51:06
+DB-41.LOPEZ.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\santostony,2026-08-13 13:16:29
+LT-59.WOODS-RAMIREZ.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\SVC_grantashley,2026-08-25 04:24:27
+LAPTOP-89.COLEMAN.COM,A member was added to a security-enabled local group,Domain Admins,CORP\ashleymorris,2026-08-17 04:21:05
+DB-07.GONZALES-COPELAND.ORG,A member was added to a security-enabled local group,Administrators,CORP\ericbryant,2026-08-07 07:25:50
+WEB-41.EDWARDS-JOHNSON.COM,User account locked out,Marketing_Share,GUEST\maria23,2026-08-19 04:57:06
+LT-60.BELL.COM,A member was added to a security-enabled local group,Domain Admins,DEV\bthomas,2026-08-06 13:52:09
+EMAIL-65.PETERSON.ORG,A member was added to a security-enabled local group,Marketing_Share,CORP\steven12,2026-08-02 00:49:14
+DESKTOP-04.SANDERS.NET,A member was removed from a security-enabled local group,Remote Desktop Users,DEV\mcguirescott,2026-08-18 08:03:30
+LAPTOP-55.WALKER-PHILLIPS.COM,A member was added to a security-enabled local group,IT_Helpdesk,DEV\mark25,2026-08-12 01:21:17
+WEB-11.FARMER.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\SVC_kimberlydiaz,2026-08-15 13:46:45
+LAPTOP-58.BISHOP.INFO,A member was added to a security-enabled global group,Remote Desktop Users,DEV\freemanlisa,2026-08-13 15:36:11
+EMAIL-43.WOODS.COM,User account locked out,Domain Admins,DEV\tyronelambert,2026-08-31 00:26:03
+LT-62.REYNOLDS-WILLIAMS.ORG,A member was removed from a security-enabled local group,Administrators,CORP\sdiaz,2026-08-08 20:32:21
+LT-47.GRIFFIN.NET,A member was removed from a security-enabled local group,Marketing_Share,DEV\hoffmansherry,2026-08-22 04:27:03
+LT-35.GALLOWAY-COLE.ORG,A member was added to a security-enabled global group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\pevans,2026-08-07 23:47:37
+DESKTOP-39.LEWIS-MARTIN.ORG,A member was removed from a security-enabled local group,Marketing_Share,CORP\iturner,2026-08-11 00:54:45
+LT-05.SMITH.INFO,User account locked out,IT_Helpdesk,GUEST\scottlawrence,2026-08-04 08:26:30
+DESKTOP-20.CUMMINGS.ORG,A member was added to a security-enabled global group,IT_Helpdesk,CORP\TEMP_adavenport,2026-08-01 15:47:56
+EMAIL-58.KRAUSE.COM,A member was added to a security-enabled global group,Remote Desktop Users,CORP\igonzalez,2026-08-12 05:25:43
+EMAIL-79.TAYLOR.INFO,Logon failure,Marketing_Share,CORP\swansondebra,2026-08-31 05:31:02
+SRV-08.ALVAREZ.BIZ,User account locked out,Domain Admins,GUEST\troygomez,2026-08-31 05:46:41
+DB-64.TAPIA-LEE.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\sarahjohnson,2026-08-18 10:29:43
+LT-27.RICHARDSON.BIZ,Logon failure,All_Staff_Read_Only,GUEST\betty97,2026-08-08 19:39:14
+DESKTOP-45.HERNANDEZ.ORG,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\garciamelvin,2026-08-14 12:38:37
+WEB-88.DANIELS-WALLACE.COM,Logon failure,Domain Admins,CORP\mary65,2026-08-08 00:57:53
+SRV-34.MENDOZA.NET,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\taylorjenny,2026-08-07 14:03:20
+DB-80.JACKSON-LEE.COM,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\SVC_sgalvan,2026-08-03 21:26:04
+DESKTOP-89.BREWER-MILLER.COM,User account locked out,All_Staff_Read_Only,CORP\barbara97,2026-08-13 23:54:08
+LT-44.MURRAY-RODRIGUEZ.BIZ,Logon failure,IT_Helpdesk,DEV\donaldadams,2026-08-13 03:58:36
+LAPTOP-60.COLEMAN.INFO,A member was added to a security-enabled local group,Domain Admins,DEV\mayobobby,2026-08-31 01:32:30
+LAPTOP-06.MEYER.COM,User account locked out,Marketing_Share,DEV\gibsonjohn,2026-08-14 10:57:32
+DB-02.TANNER-ADAMS.ORG,A member was added to a security-enabled local group,Domain Admins,DEV\SVC_stonebianca,2026-08-17 01:52:27
+LT-96.WHITE.COM,A member was removed from a security-enabled local group,Domain Admins,GUEST\wjuarez,2026-08-15 21:17:51
+WEB-93.CAMPBELL.COM,A member was added to a security-enabled local group,Administrators,DEV\uanderson,2026-08-19 09:51:18
+DB-96.ROGERS.INFO,A member was added to a security-enabled global group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\kchambers,2026-08-04 20:42:57
+WEB-77.CHRISTENSEN.COM,A member was added to a security-enabled global group,Administrators,GUEST\TEMP_hfoster,2026-08-12 00:26:24
+DB-63.MYERS-GREENE.COM,A member was added to a security-enabled global group,Domain Admins,DEV\hannah15,2026-08-15 04:01:28
+DB-68.HENDERSON.COM,User account locked out,All_Staff_Read_Only,DEV\SVC_gperkins,2026-08-14 01:12:36
+EMAIL-09.FERGUSON.ORG,User account locked out,IT_Helpdesk,GUEST\SVC_kenneth75,2026-08-29 14:47:12
+LT-47.JARVIS-PEREZ.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\TEMP_sheri98,2026-08-28 19:59:42
+LT-36.GOMEZ.COM,A member was added to a security-enabled global group,Domain Admins,OLD_DOMAIN.LEGACY.COM\xcooper,2026-08-21 00:54:51
+DB-42.WALKER.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\joel22,2026-08-23 18:15:27
+WEB-01.VAUGHN-MURRAY.BIZ,A member was added to a security-enabled global group,All_Staff_Read_Only,GUEST\SVC_joseph55,2026-08-21 06:44:02
+EMAIL-04.WEBSTER-MILLER.COM,Logon failure,Remote Desktop Users,GUEST\michael56,2026-08-25 15:32:41
+LT-54.CABRERA.BIZ,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\ewaters,2026-08-17 23:54:48
+LT-22.JORDAN.NET,A member was added to a security-enabled global group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\gibsonstephanie,2026-08-31 08:54:41
+LT-61.BOONE-ARMSTRONG.COM,A member was added to a security-enabled global group,IT_Helpdesk,DEV\blairwilliam,2026-08-03 12:07:50
+DESKTOP-14.JACOBS-HUYNH.ORG,User account locked out,Remote Desktop Users,CORP\stewartamanda,2026-08-11 17:13:15
+SRV-75.GONZALEZ-KNIGHT.COM,A member was added to a security-enabled local group,Domain Admins,DEV\TEMP_rhebert,2026-08-11 02:43:27
+LT-27.RYAN-WATKINS.COM,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\kevin43,2026-08-06 02:59:54
+LAPTOP-27.BARRERA-CARR.INFO,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\TEMP_gwhite,2026-08-17 13:43:58
+LAPTOP-84.NEWMAN-DIAZ.COM,A member was removed from a security-enabled local group,Marketing_Share,DEV\SVC_justinmoon,2026-08-15 14:31:33
+WEB-66.MORA-TORRES.COM,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\davissara,2026-08-09 19:51:46
+LT-86.MUNOZ.COM,A member was added to a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\dawnparker,2026-08-26 12:02:21
+WEB-67.ARNOLD.ORG,User account locked out,IT_Helpdesk,DEV\juan19,2026-08-25 06:51:09
+DESKTOP-56.GROSS.ORG,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\christine47,2026-08-10 08:14:57
+DESKTOP-65.FLORES-GREEN.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\qbarrett,2026-08-26 00:37:35
+LT-92.GORDON.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\jennifer86,2026-08-07 00:33:13
+DB-61.NELSON.BIZ,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\erik15,2026-08-12 22:01:12
+WEB-37.MILLER.BIZ,Logon failure,All_Staff_Read_Only,CORP\greenethomas,2026-08-20 15:44:37
+LAPTOP-82.ROSALES-MATTHEWS.COM,Logon failure,Remote Desktop Users,DEV\heather67,2026-08-26 20:56:50
+LAPTOP-07.FORD.COM,User account locked out,Administrators,CORP\tracyfischer,2026-08-14 00:34:50
+EMAIL-50.TREVINO-SALAS.INFO,A member was removed from a security-enabled local group,Marketing_Share,GUEST\snelson,2026-08-07 19:32:50
+EMAIL-20.MONROE.COM,Logon failure,Administrators,CORP\knightamber,2026-08-15 16:53:40
+WEB-54.HAYNES.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\danielsanchez,2026-08-26 08:27:21
+DESKTOP-18.HESS-UNDERWOOD.ORG,A member was removed from a security-enabled local group,Domain Admins,GUEST\parkerjared,2026-08-02 12:34:52
+DESKTOP-44.JONES.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\carlos76,2026-08-26 18:08:07
+DB-57.WARD.COM,User account locked out,Domain Admins,CORP\SVC_johnsonnicholas,2026-08-18 21:48:02
+EMAIL-95.WALLS.COM,Logon failure,All_Staff_Read_Only,CORP\elizabethward,2026-08-08 16:38:17
+SRV-76.HILL-FRY.COM,Logon failure,Remote Desktop Users,GUEST\danielleblake,2026-08-09 16:32:56
+WEB-13.WEISS-HAYES.COM,User account locked out,Domain Admins,GUEST\qjensen,2026-08-28 15:09:30
+LAPTOP-92.LAMBERT.NET,A member was removed from a security-enabled local group,Domain Admins,GUEST\meghan56,2026-08-20 11:24:20
+LT-08.HARRISON.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\arielwalker,2026-08-11 15:46:26
+LT-96.OROZCO.BIZ,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\lintonya,2026-08-30 13:53:31
+DB-79.JENSEN-HERNANDEZ.BIZ,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\hfarrell,2026-08-13 10:31:34
+EMAIL-22.SMITH-ZIMMERMAN.INFO,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\millerdavid,2026-08-09 11:08:39
+SRV-15.WEBSTER-COOPER.COM,A member was added to a security-enabled local group,IT_Helpdesk,CORP\alex39,2026-08-11 12:13:11
+LT-16.PAUL.COM,A member was removed from a security-enabled local group,Remote Desktop Users,GUEST\kylegibson,2026-08-15 05:32:21
+LAPTOP-53.THOMPSON.COM,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\kathymiranda,2026-08-17 06:15:43
+DB-95.SMITH.COM,A member was removed from a security-enabled local group,Marketing_Share,GUEST\gmorris,2026-08-06 07:45:57
+LAPTOP-71.VARGAS.ORG,Logon failure,Domain Admins,DEV\matthew71,2026-08-16 07:03:35
+DESKTOP-71.TURNER.ORG,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\TEMP_caleb24,2026-08-04 12:15:22
+SRV-35.BAXTER.NET,A member was added to a security-enabled global group,Administrators,CORP\rayjessica,2026-08-02 22:37:42
+SRV-59.ANDERSEN.NET,Logon failure,All_Staff_Read_Only,CORP\tbarrett,2026-08-06 08:15:46
+LT-00.CHANG.BIZ,A member was added to a security-enabled global group,Administrators,GUEST\antonio62,2026-08-16 19:57:30
+LT-09.NORRIS.COM,User account locked out,Domain Admins,CORP\tmcmahon,2026-08-02 18:44:16
+DESKTOP-67.JOHNSON-REYNOLDS.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\llopez,2026-08-24 22:44:40
+EMAIL-79.MORRIS.INFO,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\bennettclaudia,2026-08-19 14:34:36
+LAPTOP-22.EVANS-GIBSON.BIZ,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\qwall,2026-08-09 11:40:48
+EMAIL-16.HULL.BIZ,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\amymiller,2026-08-18 15:35:52
+LT-66.COCHRAN.COM,A member was added to a security-enabled global group,IT_Helpdesk,DEV\andrewslauren,2026-08-31 04:24:55
+DB-67.MOODY.ORG,A member was added to a security-enabled local group,IT_Helpdesk,DEV\austin70,2026-08-06 06:33:10
+DB-99.RICHARDSON.INFO,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\hwalker,2026-08-01 09:06:29
+LAPTOP-03.MCCARTHY.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\SVC_john31,2026-08-20 14:11:09
+LT-14.WILLIAMS.BIZ,Logon failure,Remote Desktop Users,DEV\kimscott,2026-08-29 08:33:03
+LAPTOP-55.MILLER.ORG,A member was removed from a security-enabled local group,Administrators,GUEST\SVC_brooke99,2026-08-18 06:30:29
+WEB-80.STEELE-GONZALEZ.ORG,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\gcole,2026-08-18 09:46:59
+EMAIL-56.MCDONALD.COM,Logon failure,Administrators,DEV\scottday,2026-08-22 20:11:46
+LT-91.BROWNING.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\SVC_riverarichard,2026-08-02 07:16:30
+SRV-26.HAYES.COM,Logon failure,All_Staff_Read_Only,DEV\ramirezkeith,2026-08-19 00:01:47
+EMAIL-06.SMITH.NET,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\sanchezangel,2026-08-03 21:38:33
+WEB-42.THOMPSON.COM,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\rileytracey,2026-08-12 18:56:16
+LT-23.WOOD-HICKS.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,CORP\kmiller,2026-08-31 00:25:41
+DB-58.JAMES-BEASLEY.COM,Logon failure,Marketing_Share,DEV\SVC_christywilson,2026-08-30 18:14:58
+SRV-27.AGUILAR.COM,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\vhawkins,2026-08-07 22:39:22
+LT-85.GONZALEZ-WEISS.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\elizabethwilson,2026-08-01 19:37:21
+WEB-73.BLACKBURN.INFO,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\danielledavis,2026-08-05 09:34:50
+LAPTOP-82.HICKS-SHAW.COM,User account locked out,All_Staff_Read_Only,DEV\pking,2026-08-09 17:07:05
+LT-09.PATEL-GRAY.COM,A member was removed from a security-enabled local group,Remote Desktop Users,DEV\SVC_bergmelissa,2026-08-15 08:46:52
+DESKTOP-98.HAYES-DOUGLAS.COM,A member was removed from a security-enabled local group,Marketing_Share,CORP\SVC_donnacarter,2026-08-05 15:19:05
+LT-78.ALVAREZ.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,GUEST\derekdonaldson,2026-08-18 02:20:20
+LAPTOP-03.BROWN-BRADSHAW.NET,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\wyoung,2026-08-20 23:49:39
+WEB-65.LAWRENCE-WEST.COM,A member was added to a security-enabled local group,Remote Desktop Users,DEV\bjones,2026-08-16 01:04:52
+DB-93.WILLIAMS-MOSLEY.INFO,Logon failure,IT_Helpdesk,CORP\xkaufman,2026-08-25 15:51:02
+SRV-36.NORMAN.COM,A member was added to a security-enabled global group,Administrators,DEV\SVC_kevinmontoya,2026-08-27 15:59:41
+DB-31.THOMAS.COM,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\awalsh,2026-08-22 09:00:45
+LT-71.CANNON.COM,A member was added to a security-enabled local group,Administrators,GUEST\TEMP_robertsalyssa,2026-08-02 01:29:27
+EMAIL-20.CLARK.COM,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\jmatthews,2026-08-10 18:22:12
+DESKTOP-31.MCGUIRE.COM,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\dpatrick,2026-08-23 02:25:03
+SRV-41.ROSARIO.BIZ,A member was removed from a security-enabled local group,Administrators,GUEST\erikaroberts,2026-08-16 19:27:23
+EMAIL-13.ALVAREZ-HARVEY.INFO,A member was removed from a security-enabled local group,Administrators,CORP\colleendyer,2026-08-28 20:26:23
+EMAIL-27.GILBERT.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\brianpham,2026-08-08 02:35:03
+WEB-06.TURNER.COM,A member was added to a security-enabled local group,Remote Desktop Users,GUEST\bellmaria,2026-08-30 08:27:45
+LT-72.MORGAN.NET,User account locked out,Administrators,CORP\SVC_gaypamela,2026-08-11 17:28:36
+DB-95.JOHNSON.COM,A member was added to a security-enabled global group,Administrators,DEV\irogers,2026-08-13 19:47:24
+LAPTOP-55.HEBERT-PARKER.ORG,User account locked out,Remote Desktop Users,GUEST\SVC_matthew39,2026-08-01 17:43:36
+SRV-19.LITTLE.COM,A member was added to a security-enabled local group,Administrators,DEV\wilsonandrea,2026-08-09 23:03:43
+WEB-04.HUGHES.INFO,Logon failure,IT_Helpdesk,DEV\patrick45,2026-08-28 11:03:22
+SRV-03.FRYE-BERG.INFO,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\SVC_hurleymargaret,2026-08-08 00:08:48
+DB-48.MASON.NET,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\SVC_mcdonaldmadison,2026-08-30 13:30:49
+WEB-55.RAY.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\meltoncathy,2026-08-24 17:38:56
+DESKTOP-90.WALLACE-FOSTER.COM,A member was added to a security-enabled local group,Domain Admins,CORP\medinastacie,2026-08-17 22:29:07
+WEB-22.BANKS.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\mathisashley,2026-08-29 14:11:29
+SRV-18.MOORE.COM,A member was added to a security-enabled global group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\richardgreen,2026-08-03 00:48:00
+DB-49.BAKER.COM,Logon failure,IT_Helpdesk,CORP\murphyshawn,2026-08-09 19:25:04
+WEB-80.THOMAS.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\anne01,2026-08-29 14:04:50
+EMAIL-68.BASS.COM,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\woodardshirley,2026-08-05 12:15:25
+WEB-79.JONES.COM,Logon failure,Marketing_Share,CORP\joshuadunn,2026-08-30 18:54:40
+LT-92.MILLER-SMITH.COM,Logon failure,Remote Desktop Users,CORP\debbie51,2026-08-22 11:14:16
+EMAIL-39.JENKINS.COM,A member was added to a security-enabled global group,Administrators,DEV\youngandrea,2026-08-04 02:01:48
+WEB-81.KING.COM,Logon failure,Domain Admins,CORP\TEMP_paul01,2026-08-29 03:53:07
+DESKTOP-94.SHEPARD.COM,A member was added to a security-enabled global group,Marketing_Share,DEV\hannahhenderson,2026-08-28 11:14:09
+EMAIL-02.WILKERSON-MASON.INFO,A member was removed from a security-enabled local group,Domain Admins,CORP\brownsarah,2026-08-30 13:38:22
+LAPTOP-80.NGUYEN.NET,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\mharris,2026-08-13 02:52:50
+SRV-63.JIMENEZ-DIAZ.BIZ,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\alexa34,2026-08-08 01:08:50
+DESKTOP-15.OLSON.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\TEMP_jasonsmith,2026-08-22 16:46:32
+DESKTOP-62.MCCARTHY-ZAMORA.COM,User account locked out,IT_Helpdesk,CORP\jhumphrey,2026-08-30 17:47:42
+SRV-30.SHERMAN.COM,Logon failure,IT_Helpdesk,GUEST\timothythomas,2026-08-05 15:37:30
+EMAIL-50.ROGERS.BIZ,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\derricksloan,2026-08-21 20:54:32
+SRV-13.WHITE.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\kimberlymartin,2026-08-18 23:35:43
+DB-41.MILLER.COM,Logon failure,Administrators,CORP\SVC_ncrawford,2026-08-04 00:17:06
+LT-33.WILLIAMS.BIZ,Logon failure,All_Staff_Read_Only,CORP\simonkimberly,2026-08-13 06:28:04
+DESKTOP-06.SILVA-SMITH.COM,User account locked out,Remote Desktop Users,CORP\orrdavid,2026-08-06 04:16:22
+LAPTOP-26.LOPEZ.NET,A member was added to a security-enabled local group,Domain Admins,GUEST\thomas40,2026-08-30 14:41:03
+WEB-14.OCONNOR-SMITH.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\SVC_thomascaleb,2026-08-09 08:48:46
+WEB-75.WELCH.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\robertjenkins,2026-08-13 17:37:54
+DESKTOP-80.COX-WOODS.COM,A member was added to a security-enabled global group,Remote Desktop Users,CORP\carlajones,2026-08-23 09:38:36
+DESKTOP-33.BROWN-ROGERS.COM,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\SVC_amy62,2026-08-13 18:32:31
+LT-16.JENKINS.COM,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\laurengoodman,2026-08-19 12:02:46
+DB-36.HORN-HALL.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,GUEST\wilsonjohn,2026-08-01 11:32:10
+EMAIL-93.DAVIS-GARNER.COM,A member was added to a security-enabled global group,Marketing_Share,DEV\TEMP_amahoney,2026-08-15 22:13:35
+SRV-11.VAUGHN-KELLY.COM,Logon failure,Marketing_Share,GUEST\guerreroroberto,2026-08-02 23:04:15
+LT-54.WASHINGTON-GUTIERREZ.COM,A member was added to a security-enabled local group,Administrators,GUEST\gregcox,2026-08-06 06:30:05
+WEB-38.HICKS.COM,A member was removed from a security-enabled local group,Domain Admins,GUEST\SVC_duranlawrence,2026-08-17 16:54:44
+SRV-32.NGUYEN-TURNER.ORG,Logon failure,IT_Helpdesk,CORP\wellis,2026-08-07 02:53:47
+LT-31.HALL.COM,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\ysteele,2026-08-23 14:13:41
+LT-47.MONTGOMERY.COM,Logon failure,IT_Helpdesk,DEV\oestes,2026-08-11 23:47:36
+LT-29.CASTRO.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\zward,2026-08-03 07:31:26
+DB-09.HARMON.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\tracy36,2026-08-18 07:00:36
+EMAIL-49.HUGHES.COM,User account locked out,Administrators,DEV\lancepitts,2026-08-11 05:31:31
+EMAIL-46.AVILA-CONRAD.ORG,A member was added to a security-enabled global group,Domain Admins,GUEST\susan77,2026-08-07 14:21:18
+SRV-78.WHEELER.COM,A member was removed from a security-enabled local group,Administrators,GUEST\qbrooks,2026-08-23 18:46:11
+EMAIL-87.HART.INFO,User account locked out,Administrators,DEV\peterhowell,2026-08-29 03:51:33
+SRV-78.BRIGHT.ORG,User account locked out,Remote Desktop Users,CORP\SVC_carrolllori,2026-08-04 12:24:58
+WEB-71.HARPER-LONG.COM,A member was removed from a security-enabled local group,Marketing_Share,CORP\julie23,2026-08-28 18:42:20
+EMAIL-69.GRANT.NET,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\anthony20,2026-08-27 23:48:14
+LAPTOP-21.HARRIS.ORG,A member was added to a security-enabled global group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\philip55,2026-08-20 15:55:24
+LAPTOP-83.PECK.INFO,A member was added to a security-enabled global group,Remote Desktop Users,CORP\SVC_lori20,2026-08-19 09:44:30
+SRV-56.CASTILLO.BIZ,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\TEMP_debrasavage,2026-08-28 14:27:26
+WEB-59.MCDONALD.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\thomasthomas,2026-08-08 04:03:03
+SRV-88.COOK.COM,User account locked out,Administrators,GUEST\ugardner,2026-08-09 16:05:11
+DESKTOP-13.MURPHY.INFO,A member was added to a security-enabled global group,Domain Admins,DEV\desireecampbell,2026-08-15 12:05:20
+LAPTOP-48.WEBER.COM,A member was added to a security-enabled global group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\daniellejones,2026-08-16 02:48:09
+DB-68.SCOTT-FOSTER.BIZ,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\SVC_richard30,2026-08-09 19:11:59
+WEB-82.MAYO.BIZ,A member was added to a security-enabled global group,Administrators,GUEST\evanturner,2026-08-06 02:54:01
+EMAIL-22.SMITH-ZIMMERMAN.INFO,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\millerdavid,2026-08-09 11:08:39
+SRV-04.VASQUEZ.INFO,User account locked out,Administrators,DEV\gburton,2026-08-05 03:48:23
+LAPTOP-12.WOODS.INFO,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\bryantdavid,2026-08-24 08:56:28
+WEB-27.JONES.ORG,A member was added to a security-enabled global group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\nicolelam,2026-08-12 14:22:14
+DB-64.BROWN-BATES.COM,User account locked out,All_Staff_Read_Only,DEV\michelle58,2026-08-24 01:16:48
+SRV-08.GRAY.COM,A member was added to a security-enabled global group,Administrators,CORP\petersonalfred,2026-08-17 10:05:16
+SRV-16.WILLIAMS.NET,A member was added to a security-enabled local group,Marketing_Share,GUEST\anthonymartin,2026-08-20 03:45:36
+EMAIL-57.STRICKLAND.COM,A member was added to a security-enabled global group,Marketing_Share,DEV\reginathomas,2026-08-30 03:01:55
+LAPTOP-58.SCOTT-DOYLE.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\richpamela,2026-08-03 06:55:15
+DESKTOP-20.CUMMINGS.ORG,A member was added to a security-enabled global group,IT_Helpdesk,CORP\TEMP_adavenport,2026-08-01 15:47:56
+WEB-40.CORTEZ.INFO,User account locked out,IT_Helpdesk,DEV\aguilarkristen,2026-08-28 06:20:38
+LAPTOP-09.GARCIA-BATES.COM,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\heidi26,2026-08-13 10:05:09
+SRV-35.SCOTT.COM,A member was added to a security-enabled local group,IT_Helpdesk,DEV\SVC_smithalexander,2026-08-29 18:40:57
+LT-90.MORRIS-FISHER.COM,A member was added to a security-enabled local group,Marketing_Share,DEV\SVC_nicholasmorgan,2026-08-03 01:00:42
+WEB-82.FRENCH-MILLER.COM,A member was added to a security-enabled local group,Domain Admins,CORP\SVC_katiejones,2026-08-30 22:07:53
+WEB-12.MIRANDA.BIZ,A member was added to a security-enabled local group,IT_Helpdesk,CORP\SVC_qsmith,2026-08-14 22:39:24
+SRV-35.SCHROEDER.INFO,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\TEMP_kristinacollier,2026-08-16 05:28:57
+SRV-43.ALLEN-YATES.COM,User account locked out,All_Staff_Read_Only,DEV\blamb,2026-08-16 06:03:44
+LAPTOP-29.NICHOLS-PETERS.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\scarter,2026-08-15 08:59:17
+EMAIL-55.WONG.COM,A member was added to a security-enabled local group,Marketing_Share,CORP\SVC_amy90,2026-08-05 20:18:02
+EMAIL-43.PAGE-LEONARD.ORG,Logon failure,All_Staff_Read_Only,DEV\zgriffin,2026-08-03 07:05:56
+SRV-01.LAWSON-BALL.NET,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\gracemartinez,2026-08-13 07:27:35
+LAPTOP-82.HICKS-SHAW.COM,User account locked out,All_Staff_Read_Only,DEV\pking,2026-08-09 17:07:05
+EMAIL-14.JOHNSON.COM,Logon failure,Marketing_Share,CORP\erinweber,2026-08-04 00:03:13
+DB-60.MOORE-COLE.COM,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\johnsonjacqueline,2026-08-24 07:07:27
+SRV-18.BAKER.COM,User account locked out,Marketing_Share,CORP\timothyhensley,2026-08-26 08:42:15
+EMAIL-85.SIMMONS-SMITH.ORG,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\mrodriguez,2026-08-15 11:34:01
+LAPTOP-67.LEE-HUDSON.ORG,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\grantjames,2026-08-21 22:28:35
+LT-63.CARLSON-KING.COM,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\dennisstevenson,2026-08-10 03:03:43
+LT-72.REESE-GRAHAM.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\SVC_james74,2026-08-29 17:26:11
+SRV-01.MOODY.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\deannalynch,2026-08-29 18:28:02
+LAPTOP-70.BROWN.COM,A member was added to a security-enabled local group,IT_Helpdesk,CORP\kimberlysmith,2026-08-01 18:34:18
+LAPTOP-07.LOPEZ.ORG,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\nelsonjames,2026-08-29 01:00:01
+SRV-25.SMITH-POWELL.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\hortonjeffery,2026-08-29 06:40:37
+DESKTOP-13.DORSEY.NET,User account locked out,Administrators,GUEST\jessebell,2026-08-15 17:24:20
+SRV-99.GONZALES-WILSON.COM,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\kim98,2026-08-19 15:02:40
+DESKTOP-93.GEORGE.BIZ,User account locked out,All_Staff_Read_Only,CORP\barkerkathleen,2026-08-28 15:34:14
+DB-71.COMBS-BAUER.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\barbara46,2026-08-24 21:25:09
+EMAIL-31.GARCIA.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\SVC_briggsbecky,2026-08-22 05:49:34
+EMAIL-04.ODONNELL.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\ereed,2026-08-18 13:42:45
+LT-17.MCCOY.COM,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\SVC_john02,2026-08-16 13:15:56
+WEB-04.MCCOY-MOORE.COM,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\katherineparrish,2026-08-30 17:38:58
+WEB-72.BURTON-CURRY.COM,A member was added to a security-enabled global group,Remote Desktop Users,DEV\michaelenglish,2026-08-30 20:20:53
+EMAIL-32.MCCARTHY-CONRAD.INFO,User account locked out,All_Staff_Read_Only,GUEST\andrewcolon,2026-08-02 05:30:33
+LT-40.GARNER-NASH.COM,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\paulmichael,2026-08-06 02:08:28
+DESKTOP-14.SUTTON.COM,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\allisonmatthews,2026-08-25 19:59:20
+DESKTOP-30.GARZA.NET,A member was added to a security-enabled global group,Marketing_Share,GUEST\melissa36,2026-08-03 15:22:03
+DESKTOP-45.RUIZ.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\ystanley,2026-08-11 02:54:06
+LT-11.MILLER-ALEXANDER.NET,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\danielhicks,2026-08-28 02:14:23
+SRV-44.HOLLAND.ORG,User account locked out,Administrators,GUEST\sethford,2026-08-18 15:53:09
+LT-68.NORMAN-GREEN.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\kmartin,2026-08-14 10:56:27
+DB-54.WHEELER.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\tiffanyford,2026-08-16 06:17:38
+DESKTOP-80.ATKINS.ORG,User account locked out,Marketing_Share,DEV\atate,2026-08-15 10:52:22
+EMAIL-01.OLSON.COM,A member was removed from a security-enabled local group,Remote Desktop Users,GUEST\jacquelinesingleton,2026-08-08 18:30:10
+DB-77.JOHNSON.INFO,User account locked out,Administrators,CORP\TEMP_hickmancharles,2026-08-29 06:49:39
+EMAIL-52.JACKSON.COM,Logon failure,Marketing_Share,GUEST\raymonderic,2026-08-02 10:22:47
+SRV-19.BAILEY-SALINAS.COM,A member was added to a security-enabled local group,Administrators,GUEST\andre56,2026-08-06 00:13:37
+EMAIL-53.WALKER.INFO,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_gutierrezlindsey,2026-08-13 00:43:53
+WEB-32.PRICE.COM,A member was added to a security-enabled local group,Administrators,CORP\ehoffman,2026-08-05 18:25:24
+WEB-54.WEST-SMITH.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\zhamilton,2026-08-16 02:18:47
+SRV-61.STEVENSON.COM,Logon failure,IT_Helpdesk,CORP\hayesjeffrey,2026-08-09 05:07:56
+LT-74.BUCHANAN-HOOVER.BIZ,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\wigginsjoel,2026-08-26 03:22:07
+EMAIL-92.FLORES.ORG,A member was added to a security-enabled global group,Domain Admins,OLD_DOMAIN.LEGACY.COM\robert23,2026-08-05 21:34:55
+DB-02.BROWN-PRUITT.NET,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\aliceatkinson,2026-08-20 17:00:53
+WEB-91.ALVAREZ.BIZ,Logon failure,Administrators,DEV\SVC_joshuasmith,2026-08-24 20:31:08
+DB-09.DAVIS.COM,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\mcdonaldcrystal,2026-08-03 13:58:38
+LAPTOP-83.MILLER.NET,A member was added to a security-enabled local group,Marketing_Share,GUEST\SVC_jlam,2026-08-25 19:44:55
+LT-98.MCDOWELL-DICKERSON.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\brittanypitts,2026-08-01 10:22:04
+LT-00.LEE-SULLIVAN.COM,A member was added to a security-enabled global group,Domain Admins,DEV\TEMP_mwalker,2026-08-05 15:40:10
+DESKTOP-07.FITZPATRICK.COM,Logon failure,Domain Admins,CORP\timmason,2026-08-11 18:42:07
+LAPTOP-19.SILVA.NET,A member was removed from a security-enabled local group,Marketing_Share,CORP\stevensavage,2026-08-17 02:21:26
+SRV-05.BLAIR.NET,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_jordanvictor,2026-08-15 01:53:49
+DB-94.SCOTT.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\debbie00,2026-08-19 21:23:05
+LAPTOP-22.ROBINSON.COM,A member was added to a security-enabled global group,Remote Desktop Users,DEV\ramosyvette,2026-08-02 03:09:44
+LT-96.WHITE.COM,A member was removed from a security-enabled local group,Domain Admins,GUEST\wjuarez,2026-08-15 21:17:51
+EMAIL-23.OSBORNE.COM,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\dennisburch,2026-08-10 02:03:22
+DESKTOP-33.HARDY-WILLIAMS.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\davidsherman,2026-08-02 03:33:00
+LAPTOP-83.STEWART.BIZ,A member was removed from a security-enabled local group,Domain Admins,DEV\TEMP_william57,2026-08-11 15:02:27
+DB-36.CHAMBERS-KAISER.COM,User account locked out,Marketing_Share,GUEST\fthompson,2026-08-04 00:13:58
+EMAIL-16.CLARK.COM,Logon failure,IT_Helpdesk,GUEST\dcummings,2026-08-10 14:55:01
+EMAIL-08.WILSON.NET,A member was added to a security-enabled global group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\lauren49,2026-08-08 18:23:15
+LAPTOP-16.WALKER-REEVES.INFO,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\williamsrobyn,2026-08-30 11:45:22
+LAPTOP-31.HUNTER.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\nicholasdavis,2026-08-30 13:41:17
+LT-87.FERGUSON.COM,A member was removed from a security-enabled local group,Domain Admins,DEV\robertcoffey,2026-08-08 11:06:38
+DESKTOP-90.WALLACE-FOSTER.COM,A member was added to a security-enabled local group,Domain Admins,CORP\medinastacie,2026-08-17 22:29:07
+LAPTOP-51.WILLIAMS.COM,User account locked out,All_Staff_Read_Only,GUEST\stewartbenjamin,2026-08-17 17:35:29
+DB-55.FRY.BIZ,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\natalie89,2026-08-17 03:53:19
+EMAIL-21.VARGAS.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,GUEST\SVC_ricky18,2026-08-29 05:08:30
+SRV-37.THOMPSON-ANDERSON.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\fwilliams,2026-08-06 05:55:35
+DESKTOP-34.RICE.COM,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\TEMP_david09,2026-08-20 22:55:23
+WEB-37.SANCHEZ-SANCHEZ.INFO,A member was added to a security-enabled local group,Marketing_Share,DEV\abbottlisa,2026-08-05 15:01:53
+EMAIL-31.SALAS.NET,Logon failure,Domain Admins,CORP\SVC_imitchell,2026-08-17 17:17:01
+DB-11.THOMPSON.BIZ,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\gary09,2026-08-17 15:58:10
+LT-18.STEVENS.COM,A member was added to a security-enabled global group,Domain Admins,CORP\isanders,2026-08-27 07:55:35
+LAPTOP-73.MOORE-ROBERTS.COM,A member was added to a security-enabled global group,Domain Admins,OLD_DOMAIN.LEGACY.COM\wellskimberly,2026-08-25 19:49:30
+DB-45.RIOS.COM,User account locked out,All_Staff_Read_Only,GUEST\TEMP_rcarter,2026-08-16 10:14:51
+WEB-76.HARTMAN-BROWN.BIZ,A member was added to a security-enabled global group,IT_Helpdesk,CORP\hcooper,2026-08-05 23:42:58
+LT-18.SANDOVAL.COM,Logon failure,Remote Desktop Users,CORP\escobaryolanda,2026-08-13 02:19:39
+EMAIL-98.FOWLER-TAYLOR.INFO,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\williammarshall,2026-08-05 19:28:55
+SRV-47.BRYANT.COM,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\ballardmegan,2026-08-23 01:39:39
+LT-93.HOGAN-MASSEY.BIZ,A member was removed from a security-enabled local group,Marketing_Share,CORP\matthewbaker,2026-08-05 01:21:26
+LAPTOP-49.WILSON.INFO,User account locked out,Administrators,CORP\walkermiranda,2026-08-14 00:04:41
+EMAIL-02.ROBINSON.BIZ,A member was removed from a security-enabled local group,Marketing_Share,GUEST\amber88,2026-08-10 21:22:23
+LAPTOP-79.MCCOY.COM,A member was removed from a security-enabled local group,Marketing_Share,CORP\ubowman,2026-08-20 23:47:40
+EMAIL-43.FORD-BARRERA.INFO,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\morrisgregory,2026-08-04 21:32:31
+DESKTOP-04.KIRK.NET,A member was removed from a security-enabled local group,Administrators,CORP\mortonjonathan,2026-08-19 17:23:25
+DB-62.KELLEY.COM,A member was added to a security-enabled global group,Administrators,GUEST\ikline,2026-08-06 15:51:15
+LAPTOP-23.JOHNSON.COM,A member was added to a security-enabled local group,IT_Helpdesk,CORP\hulltrevor,2026-08-26 01:24:22
+DESKTOP-27.HARVEY.BIZ,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_meganadams,2026-08-09 18:37:48
+SRV-76.POTTER-GOOD.COM,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_nicolehale,2026-08-08 22:35:01
+DB-11.HOLT.NET,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\sara80,2026-08-21 11:16:20
+LAPTOP-54.HOLLOWAY-SIMMONS.COM,A member was removed from a security-enabled local group,Marketing_Share,DEV\stevendavenport,2026-08-04 14:02:34
+WEB-30.HICKS-BAKER.COM,A member was added to a security-enabled local group,Administrators,GUEST\christophercastaneda,2026-08-14 16:20:13
+DESKTOP-07.HERNANDEZ.COM,User account locked out,Remote Desktop Users,DEV\floreskaren,2026-08-19 19:22:54
+WEB-78.BLACK-GARCIA.NET,A member was added to a security-enabled local group,Domain Admins,GUEST\melissasmith,2026-08-07 01:27:46
+EMAIL-24.LYNCH.INFO,User account locked out,Marketing_Share,DEV\kallen,2026-08-05 17:44:36
+WEB-80.MENDOZA.COM,User account locked out,IT_Helpdesk,DEV\SVC_joshua97,2026-08-06 03:08:02
+SRV-16.GONZALEZ.COM,A member was added to a security-enabled global group,Administrators,GUEST\TEMP_david17,2026-08-27 13:26:02
+DB-72.DAVIS.COM,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\SVC_erikawalters,2026-08-28 22:09:08
+SRV-01.MORALES.BIZ,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\rshaw,2026-08-18 12:51:03
+LT-43.WATERS.COM,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\clarence71,2026-08-15 03:04:48
+LT-17.TANNER-GUTIERREZ.COM,A member was added to a security-enabled local group,Administrators,DEV\pthompson,2026-08-26 17:13:27
+SRV-92.MASON-RODGERS.BIZ,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\tylermary,2026-08-06 05:26:52
+SRV-99.HARPER.COM,Logon failure,IT_Helpdesk,DEV\courtneystephens,2026-08-10 23:25:53
+WEB-72.ROBERTS-REYNOLDS.NET,Logon failure,Marketing_Share,DEV\jennifer83,2026-08-09 02:11:14
+LAPTOP-26.RODRIGUEZ.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\annbrewer,2026-08-15 05:54:20
+LAPTOP-54.RUSSELL.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\underwoodsara,2026-08-01 20:47:31
+DB-58.BLEVINS-HURST.COM,Logon failure,Remote Desktop Users,GUEST\wjohnson,2026-08-28 16:47:39
+LT-22.RICHARDSON.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\hannah34,2026-08-17 17:52:03
+DB-57.ALLEN.ORG,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_natalie71,2026-08-16 04:35:04
+DESKTOP-45.RUIZ.COM,A member was added to a security-enabled local group,Marketing_Share,GUEST\ystanley,2026-08-11 02:54:06
+DB-87.WILLIAMS.COM,A member was added to a security-enabled global group,Marketing_Share,DEV\SVC_josephhunter,2026-08-12 04:47:56
+DESKTOP-76.LEE-TAYLOR.COM,Logon failure,Administrators,GUEST\SVC_imunoz,2026-08-02 21:52:27
+EMAIL-11.HERRING.COM,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\maddenbrandy,2026-08-03 02:11:25
+SRV-28.TRUJILLO.BIZ,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\gonzalezmary,2026-08-27 23:27:59
+LAPTOP-34.ODONNELL.INFO,Logon failure,Remote Desktop Users,GUEST\ahardy,2026-08-29 20:26:55
+LAPTOP-30.FREEMAN-CAMPBELL.ORG,A member was removed from a security-enabled local group,Domain Admins,CORP\mcconnelljustin,2026-08-12 07:46:24
+DB-11.PETERSON.COM,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\TEMP_victoriawright,2026-08-01 00:29:41
+EMAIL-71.PECK.COM,User account locked out,Administrators,DEV\melanie50,2026-08-05 12:10:11
+SRV-73.BRUCE.BIZ,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\williamswanda,2026-08-25 11:44:52
+DESKTOP-67.RANDOLPH.NET,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\jonathanacevedo,2026-08-24 06:58:52
+LAPTOP-07.LESTER.COM,A member was removed from a security-enabled local group,Remote Desktop Users,GUEST\mendozajulie,2026-08-01 17:47:54
+EMAIL-69.GRANT.NET,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\anthony20,2026-08-27 23:48:14
+WEB-85.SMITH-JACKSON.COM,A member was added to a security-enabled local group,Remote Desktop Users,GUEST\devincalhoun,2026-08-14 17:20:35
+LAPTOP-14.LUTZ.COM,A member was added to a security-enabled global group,IT_Helpdesk,DEV\courtney27,2026-08-23 12:05:48
+LT-02.RAY-LOPEZ.COM,A member was added to a security-enabled global group,Remote Desktop Users,DEV\suewatkins,2026-08-11 17:08:25
+DESKTOP-32.KENNEDY-GONZALEZ.COM,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\SVC_elizabethboyle,2026-08-23 01:05:03
+SRV-19.HICKS-SCOTT.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\xfitzgerald,2026-08-06 20:18:38
+WEB-99.GARZA.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\qdelgado,2026-08-20 15:05:20
+EMAIL-22.GARCIA.INFO,A member was added to a security-enabled local group,Marketing_Share,GUEST\mcohen,2026-08-01 13:36:39
+EMAIL-40.PEARSON-KIRBY.INFO,Logon failure,Marketing_Share,GUEST\kristinhancock,2026-08-24 23:40:05
+DB-47.THOMPSON-IRWIN.COM,User account locked out,Domain Admins,CORP\jacquelinechapman,2026-08-17 08:27:55
+SRV-42.MOORE.COM,A member was removed from a security-enabled local group,Administrators,CORP\SVC_wespinoza,2026-08-14 02:55:23
+WEB-17.BARNETT.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\qhoward,2026-08-28 22:06:23
+WEB-50.GLASS-JONES.COM,Logon failure,Domain Admins,CORP\SVC_zanderson,2026-08-09 05:26:50
+DB-65.NIELSEN.NET,A member was removed from a security-enabled local group,Remote Desktop Users,GUEST\mckinneyjeffrey,2026-08-16 06:40:33
+WEB-80.PETERS.INFO,User account locked out,Administrators,DEV\SVC_rodriguezjulia,2026-08-07 17:33:22
+WEB-68.SCHULTZ.NET,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\andersondean,2026-08-01 04:24:35
+DESKTOP-76.NORRIS-SNYDER.BIZ,Logon failure,Marketing_Share,GUEST\TEMP_andersonpatrick,2026-08-04 20:53:59
+LT-11.NORTON-NORRIS.INFO,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\kguerra,2026-08-20 19:52:29
+DESKTOP-44.JONES.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\carlos76,2026-08-26 18:08:07
+DESKTOP-35.SULLIVAN.NET,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\kyle53,2026-08-25 10:21:44
+SRV-73.HIGGINS.ORG,User account locked out,IT_Helpdesk,GUEST\emurphy,2026-08-19 23:34:03
+LAPTOP-81.MORENO.BIZ,A member was removed from a security-enabled local group,Domain Admins,GUEST\bcruz,2026-08-05 13:05:16
+DB-80.DAVIS-TORRES.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\SVC_richardsmith,2026-08-20 06:10:39
+LAPTOP-74.THOMAS.INFO,Logon failure,Remote Desktop Users,DEV\mark26,2026-08-26 03:30:03
+SRV-91.MITCHELL.INFO,A member was added to a security-enabled global group,All_Staff_Read_Only,GUEST\lisa09,2026-08-21 23:54:39
+LT-24.PHILLIPS.NET,A member was added to a security-enabled local group,Domain Admins,GUEST\marshalljoseph,2026-08-03 11:06:34
+EMAIL-55.BROWN.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\josephweber,2026-08-30 02:16:27
+DB-63.SMITH.COM,A member was removed from a security-enabled local group,Domain Admins,CORP\edwinhines,2026-08-13 09:58:22
+WEB-84.THOMPSON.BIZ,A member was removed from a security-enabled local group,Administrators,GUEST\whitedebra,2026-08-24 10:39:24
+DB-72.JAMES-FARMER.COM,Logon failure,Remote Desktop Users,DEV\brendaross,2026-08-07 21:11:47
+SRV-65.DAVILA-SMITH.COM,A member was removed from a security-enabled local group,Domain Admins,CORP\TEMP_sandra53,2026-08-16 12:32:47
+LAPTOP-91.GONZALEZ-MCBRIDE.COM,User account locked out,Administrators,DEV\christopher99,2026-08-22 00:21:41
+DB-23.FARRELL.NET,Logon failure,IT_Helpdesk,GUEST\SVC_higginsmario,2026-08-06 20:12:16
+EMAIL-58.WONG.COM,A member was added to a security-enabled local group,Administrators,CORP\TEMP_sarah22,2026-08-28 01:13:20
+SRV-10.JACKSON.COM,Logon failure,Domain Admins,GUEST\cruzerica,2026-08-25 02:04:15
+WEB-69.BRADLEY-RICE.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\mhernandez,2026-08-04 08:40:20
+DESKTOP-18.KELLY-GOODWIN.COM,Logon failure,All_Staff_Read_Only,CORP\medinadavid,2026-08-16 01:36:25
+DB-58.PALMER.INFO,A member was added to a security-enabled global group,Remote Desktop Users,CORP\murphyelizabeth,2026-08-18 21:43:47
+DESKTOP-95.MCGEE-WARE.BIZ,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\glassvirginia,2026-08-21 05:02:39
+DESKTOP-99.BURNS.NET,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\floresmichael,2026-08-13 16:21:23
+DB-07.HARRIS.COM,A member was added to a security-enabled global group,Marketing_Share,DEV\SVC_danielle25,2026-08-15 19:52:55
+LAPTOP-23.RAMIREZ.COM,Logon failure,Remote Desktop Users,GUEST\stephen06,2026-08-05 10:34:05
+DB-41.MANNING.COM,Logon failure,All_Staff_Read_Only,DEV\nicole39,2026-08-28 07:48:21
+LAPTOP-84.PINEDA.COM,User account locked out,Administrators,GUEST\gregorypalmer,2026-08-28 20:35:49
+LT-13.ESCOBAR-STRONG.COM,A member was added to a security-enabled global group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\melanie46,2026-08-10 05:11:13
+WEB-00.SALAS.COM,A member was added to a security-enabled global group,IT_Helpdesk,CORP\adamsdonald,2026-08-26 03:19:35
+LT-34.BROOKS-POWERS.ORG,A member was added to a security-enabled global group,Marketing_Share,DEV\austin67,2026-08-06 05:03:03
+LAPTOP-43.DRAKE.BIZ,A member was added to a security-enabled global group,Administrators,DEV\glovercynthia,2026-08-04 21:45:21
+EMAIL-80.SUAREZ.ORG,A member was removed from a security-enabled local group,Administrators,CORP\sharonsolomon,2026-08-27 20:34:19
+SRV-19.LUCERO-STOKES.INFO,A member was removed from a security-enabled local group,Domain Admins,CORP\patricia48,2026-08-20 21:53:52
+LAPTOP-39.ORTIZ.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\terrirodriguez,2026-08-02 09:12:41
+DESKTOP-52.WHITE-MCKINNEY.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\olivia32,2026-08-26 12:05:06
+DESKTOP-69.HENSON-MCMILLAN.COM,Logon failure,Domain Admins,DEV\TEMP_medinamegan,2026-08-21 21:09:02
+DESKTOP-90.HOWELL-SOSA.COM,User account locked out,Domain Admins,CORP\pwilliams,2026-08-03 17:35:40
+DB-74.VASQUEZ.COM,A member was added to a security-enabled local group,Remote Desktop Users,GUEST\rodriguezdenise,2026-08-28 11:00:50
+DESKTOP-93.LITTLE.BIZ,User account locked out,IT_Helpdesk,DEV\lewisseth,2026-08-10 08:18:56
+SRV-40.MEYERS.ORG,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\xmartinez,2026-08-08 01:10:13
+LAPTOP-94.KELLY.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\tdawson,2026-08-12 04:53:16
+SRV-92.GALLAGHER.INFO,A member was added to a security-enabled local group,Marketing_Share,CORP\pharrison,2026-08-31 12:57:48
+WEB-93.JOHNSTON.COM,User account locked out,Remote Desktop Users,GUEST\wilsontimothy,2026-08-02 12:03:44
+LAPTOP-29.DOMINGUEZ.COM,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\debra22,2026-08-19 18:59:15
+DB-74.EDWARDS.ORG,Logon failure,All_Staff_Read_Only,GUEST\kristinjohnson,2026-08-23 21:55:41
+LAPTOP-46.WALTERS-ANDERSON.COM,A member was added to a security-enabled local group,Administrators,DEV\allenkimberly,2026-08-05 12:56:36
+LT-55.GROSS.COM,Logon failure,Administrators,CORP\mary74,2026-08-24 12:49:35
+EMAIL-45.FRANCO.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\johnsonrichard,2026-08-18 05:06:49
+DESKTOP-79.SMITH-HUGHES.INFO,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\martinezcorey,2026-08-26 01:35:37
+EMAIL-09.SMITH-SMITH.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\SVC_kellyhart,2026-08-07 15:02:21
+LT-44.SINGLETON.BIZ,Logon failure,Domain Admins,DEV\SVC_alvarezdylan,2026-08-31 04:00:04
+SRV-87.JOHNSON-WILLIAMS.COM,A member was added to a security-enabled local group,IT_Helpdesk,CORP\kevinherrera,2026-08-08 23:28:00
+EMAIL-65.HOFFMAN.COM,A member was added to a security-enabled local group,Administrators,CORP\isabel02,2026-08-29 17:16:44
+LAPTOP-17.GOMEZ-BRYANT.COM,A member was added to a security-enabled global group,Administrators,DEV\cooperjessica,2026-08-01 05:39:34
+LAPTOP-38.LEWIS.COM,A member was added to a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\qkoch,2026-08-13 17:47:33
+LT-68.GRANT-HARPER.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\kathyholmes,2026-08-07 09:33:29
+DB-11.BARNES.ORG,A member was added to a security-enabled local group,IT_Helpdesk,CORP\SVC_rebeccakennedy,2026-08-31 12:41:11
+LT-85.BROWN.BIZ,A member was added to a security-enabled global group,Remote Desktop Users,DEV\garciamichael,2026-08-29 15:25:20
+LT-12.MILLER.NET,A member was added to a security-enabled local group,Domain Admins,DEV\SVC_xpetty,2026-08-06 21:47:16
+WEB-79.ALVARADO.NET,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\hartmancurtis,2026-08-15 11:30:34
+DB-64.MURRAY.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\stephenglass,2026-08-17 06:41:46
+DB-75.BERG.COM,A member was added to a security-enabled global group,Marketing_Share,GUEST\pwarren,2026-08-21 16:19:42
+EMAIL-37.WATTS.INFO,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\iliu,2026-08-01 17:41:47
+WEB-40.PHILLIPS.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\zmaxwell,2026-08-20 00:33:47
+DESKTOP-96.BARAJAS.COM,A member was added to a security-enabled global group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_williamsandrew,2026-08-28 23:13:31
+SRV-24.TAYLOR.INFO,User account locked out,Administrators,DEV\brian50,2026-08-31 08:35:28
+DESKTOP-44.JAMES-HUANG.INFO,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\cory46,2026-08-26 07:42:52
+LAPTOP-63.RAMIREZ.INFO,Logon failure,Domain Admins,GUEST\simscynthia,2026-08-31 12:44:18
+DB-78.COOK.COM,User account locked out,IT_Helpdesk,DEV\ariley,2026-08-22 22:00:50
+LT-36.WHITE.COM,User account locked out,All_Staff_Read_Only,CORP\sjenkins,2026-08-04 23:51:00
+SRV-68.CHANDLER.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\ericvazquez,2026-08-07 11:39:30
+WEB-59.STEVENS-POWELL.NET,User account locked out,Remote Desktop Users,DEV\millercrystal,2026-08-11 10:31:34
+SRV-34.CLARK-ZAVALA.INFO,User account locked out,Administrators,GUEST\connor28,2026-08-03 06:51:00
+LT-29.HANSEN.INFO,A member was added to a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\deckersteve,2026-08-05 14:16:15
+LT-66.SPENCER-BROWN.ORG,User account locked out,Domain Admins,DEV\traviswilliams,2026-08-18 06:59:44
+DB-00.WEAVER.INFO,A member was added to a security-enabled local group,Remote Desktop Users,CORP\clinton75,2026-08-09 07:13:28
+DESKTOP-03.WILSON-GUERRA.COM,A member was added to a security-enabled local group,Marketing_Share,CORP\barrydaniel,2026-08-09 02:06:07
+LAPTOP-03.ALEXANDER.NET,Logon failure,Administrators,DEV\hclarke,2026-08-24 20:28:40
+EMAIL-77.MOORE.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\michelle17,2026-08-10 12:25:11
+EMAIL-28.DURAN.ORG,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_weaverjason,2026-08-31 09:38:29
+LT-66.RUIZ.ORG,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\ivan92,2026-08-07 10:54:55
+DB-90.MILLER-MOORE.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\christopher72,2026-08-19 18:54:48
+EMAIL-40.REEVES.INFO,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\hamiltonlouis,2026-08-06 23:25:14
+LAPTOP-81.COLLINS-LOGAN.COM,A member was added to a security-enabled global group,IT_Helpdesk,CORP\TEMP_thomasnewman,2026-08-20 02:03:49
+DESKTOP-92.BURGESS-EDWARDS.BIZ,A member was added to a security-enabled local group,Marketing_Share,DEV\daniel58,2026-08-09 17:23:09
+WEB-51.BONILLA-BOYER.BIZ,A member was added to a security-enabled global group,Domain Admins,OLD_DOMAIN.LEGACY.COM\knguyen,2026-08-09 13:27:01
+DB-25.KLEIN.COM,A member was added to a security-enabled local group,Remote Desktop Users,DEV\umeyers,2026-08-20 12:41:44
+DESKTOP-24.FERNANDEZ.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\torresedward,2026-08-01 13:41:12
+LT-27.WEBER-LUCAS.COM,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\melissawillis,2026-08-04 22:43:10
+LAPTOP-35.ALLEN.COM,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_cknight,2026-08-29 12:20:23
+SRV-47.CLARKE.NET,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\thompsonryan,2026-08-07 09:22:52
+DESKTOP-08.POWELL-JONES.COM,Logon failure,Domain Admins,GUEST\antonio56,2026-08-08 05:04:17
+LAPTOP-47.ADAMS.COM,User account locked out,Remote Desktop Users,GUEST\SVC_vgriffin,2026-08-12 03:16:25
+SRV-04.TREVINO.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\jessicafarrell,2026-08-28 07:46:56
+EMAIL-72.ALLEN-ALLEN.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\sestes,2026-08-14 00:14:01
+LAPTOP-67.HUNT-WILLIAMS.INFO,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\brent53,2026-08-15 15:31:06
+LAPTOP-32.CARDENAS.COM,A member was added to a security-enabled local group,Domain Admins,GUEST\petermay,2026-08-02 03:12:07
+EMAIL-20.JOHNSON.ORG,User account locked out,Domain Admins,CORP\proctorronald,2026-08-25 21:03:08
+DB-51.BROWN.BIZ,User account locked out,Administrators,GUEST\SVC_bookerkathy,2026-08-10 22:49:00
+EMAIL-42.SANDERS.COM,User account locked out,All_Staff_Read_Only,DEV\rmaynard,2026-08-09 07:08:21
+WEB-95.SMITH.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\SVC_aprilgreen,2026-08-01 03:16:21
+WEB-14.JOHNSON.COM,Logon failure,Remote Desktop Users,GUEST\anielsen,2026-08-04 19:54:09
+EMAIL-18.RAMSEY-FOWLER.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\fitzgeraldjay,2026-08-08 01:17:56
+DB-54.ELLIOTT.COM,Logon failure,Remote Desktop Users,GUEST\kirstenjohnson,2026-08-22 14:29:45
+LT-89.GORDON.COM,Logon failure,Domain Admins,DEV\SVC_allenashley,2026-08-01 11:09:43
+EMAIL-06.LIVINGSTON.COM,Logon failure,All_Staff_Read_Only,DEV\michael85,2026-08-09 00:56:29
+EMAIL-60.FRENCH.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\fgreen,2026-08-16 11:22:04
+DB-87.LIU.INFO,Logon failure,IT_Helpdesk,CORP\kathleen89,2026-08-29 07:26:12
+SRV-83.GUTIERREZ-ROBERSON.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\SVC_sharpmax,2026-08-15 13:47:36
+LAPTOP-32.VALENZUELA-KLEIN.COM,Logon failure,Remote Desktop Users,CORP\geraldbenjamin,2026-08-07 13:27:58
+LAPTOP-69.HERNANDEZ.INFO,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\diamondsandoval,2026-08-08 08:05:24
+LT-88.GARDNER.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\treese,2026-08-20 01:03:46
+SRV-64.JACKSON-CAIN.ORG,A member was added to a security-enabled local group,Administrators,CORP\wboyer,2026-08-23 21:57:38
+LT-47.JONES.NET,A member was added to a security-enabled global group,Marketing_Share,GUEST\lturner,2026-08-01 13:07:58
+LAPTOP-53.SIMON.INFO,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\david68,2026-08-04 20:09:28
+WEB-32.DAVIS-BURCH.BIZ,A member was added to a security-enabled local group,Marketing_Share,CORP\jamie77,2026-08-17 16:04:44
+SRV-33.SMITH.ORG,A member was added to a security-enabled global group,Administrators,DEV\palmerkeith,2026-08-15 15:13:43
+EMAIL-28.DURAN.ORG,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_weaverjason,2026-08-31 09:38:29
+LAPTOP-57.JORDAN.BIZ,User account locked out,Marketing_Share,CORP\vjohnson,2026-08-11 01:24:10
+DB-16.POWERS-GLOVER.INFO,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\jillian09,2026-08-03 23:44:09
+DB-39.MALDONADO-BOYD.INFO,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\turnerashley,2026-08-17 21:08:15
+EMAIL-83.MARTINEZ-BURTON.NET,Logon failure,Remote Desktop Users,CORP\SVC_woodwarddavid,2026-08-09 18:53:35
+LAPTOP-02.STAFFORD.COM,A member was added to a security-enabled local group,Marketing_Share,DEV\millsfrank,2026-08-12 06:37:16
+SRV-14.TAYLOR-DAVIS.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\SVC_marissahickman,2026-08-15 07:09:45
+LT-56.MARSHALL-GARDNER.COM,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\omaranderson,2026-08-17 11:21:40
+DB-31.SCHNEIDER-SANFORD.BIZ,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\christina85,2026-08-27 06:10:03
+SRV-11.OLIVER-VAZQUEZ.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\uhall,2026-08-10 06:35:21
+DB-69.ARNOLD.COM,A member was added to a security-enabled global group,Marketing_Share,GUEST\pwest,2026-08-10 11:32:30
+SRV-47.GONZALES.ORG,Logon failure,Marketing_Share,GUEST\williamreed,2026-08-09 04:14:04
+LAPTOP-89.COLEMAN.COM,A member was added to a security-enabled local group,Domain Admins,CORP\ashleymorris,2026-08-17 04:21:05
+EMAIL-58.VEGA.NET,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\sara26,2026-08-15 17:41:57
+DB-02.WHEELER.INFO,Logon failure,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\SVC_kburton,2026-08-03 17:41:16
+SRV-17.LEE.COM,A member was added to a security-enabled global group,Domain Admins,DEV\cjones,2026-08-14 21:12:50
+DESKTOP-65.PATEL.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\estuart,2026-08-21 14:35:38
+EMAIL-29.WILLIAMS.COM,A member was added to a security-enabled global group,Domain Admins,DEV\emilywelch,2026-08-06 17:36:34
+DESKTOP-67.LUCAS-LUNA.COM,User account locked out,Remote Desktop Users,CORP\graypaul,2026-08-22 10:20:47
+EMAIL-65.HOFFMAN.COM,A member was added to a security-enabled local group,Administrators,CORP\isabel02,2026-08-29 17:16:44
+LAPTOP-16.RILEY.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,DEV\stephaniedominguez,2026-08-24 17:33:21
+LAPTOP-18.WOOD-BANKS.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\SVC_nicholas20,2026-08-26 04:21:01
+LAPTOP-43.WOOD-HANNA.COM,A member was added to a security-enabled local group,Marketing_Share,DEV\mcdonaldalison,2026-08-08 02:27:59
+SRV-54.HOGAN-FLOWERS.ORG,User account locked out,Marketing_Share,DEV\jeffreyjohnson,2026-08-29 13:11:59
+LAPTOP-86.LAMBERT.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\ogregory,2026-08-19 03:20:37
+DB-16.HOLLAND.COM,User account locked out,Marketing_Share,GUEST\kevin17,2026-08-25 05:40:42
+DESKTOP-85.GLOVER-SMITH.COM,Logon failure,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\tcunningham,2026-08-26 02:52:20
+WEB-96.GONZALES.COM,User account locked out,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\bridget25,2026-08-25 20:36:32
+EMAIL-08.CUMMINGS.BIZ,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\TEMP_nicolesmith,2026-08-26 13:39:02
+LAPTOP-66.CAIN-NIXON.COM,Logon failure,Administrators,DEV\brittney51,2026-08-02 07:57:29
+SRV-27.ADAMS.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\cody07,2026-08-30 09:11:42
+DESKTOP-93.SMITH.COM,User account locked out,IT_Helpdesk,CORP\micheallong,2026-08-21 15:26:50
+WEB-13.MCCLURE.COM,User account locked out,Marketing_Share,DEV\kevin92,2026-08-06 07:58:04
+SRV-12.JORDAN.NET,User account locked out,Marketing_Share,GUEST\jackdonovan,2026-08-06 00:34:19
+LT-00.SWANSON.COM,User account locked out,All_Staff_Read_Only,CORP\brandon66,2026-08-10 08:11:22
+WEB-71.GREGORY.NET,User account locked out,Administrators,GUEST\smithmarc,2026-08-12 18:42:59
+SRV-76.POTTER-GOOD.COM,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_nicolehale,2026-08-08 22:35:01
+EMAIL-64.PAGE-PEREZ.COM,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\mariahbrowning,2026-08-21 17:55:42
+WEB-80.HANSEN-MIRANDA.BIZ,A member was added to a security-enabled local group,Administrators,CORP\sanderspaul,2026-08-16 12:45:41
+WEB-33.BROCK-TOWNSEND.ORG,User account locked out,All_Staff_Read_Only,DEV\dennisamanda,2026-08-18 08:15:48
+DESKTOP-20.KING-ERICKSON.COM,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\TEMP_john50,2026-08-15 21:59:12
+SRV-39.TAYLOR.COM,A member was added to a security-enabled global group,Administrators,GUEST\whitedavid,2026-08-24 05:41:51
+SRV-54.LEWIS-DAVIS.COM,Logon failure,Administrators,DEV\jamesburton,2026-08-10 14:43:54
+DB-56.MCDANIEL.NET,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\SVC_scotttaylor,2026-08-21 00:37:37
+EMAIL-40.JACKSON.BIZ,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\allisonbarker,2026-08-08 11:58:27
+DESKTOP-63.PETERS.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\denniskelly,2026-08-09 15:00:37
+DESKTOP-68.THOMPSON.COM,A member was added to a security-enabled local group,Remote Desktop Users,DEV\SVC_upowell,2026-08-02 01:35:51
+SRV-87.DOMINGUEZ.COM,A member was removed from a security-enabled local group,Domain Admins,DEV\katie80,2026-08-16 13:55:19
+SRV-56.SAMPSON.INFO,A member was removed from a security-enabled local group,Marketing_Share,CORP\denise78,2026-08-11 16:09:14
+LT-46.BROOKS-LIVINGSTON.ORG,A member was added to a security-enabled global group,Marketing_Share,CORP\kevin72,2026-08-02 17:08:44
+LT-85.CRAWFORD.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\TEMP_ifox,2026-08-25 10:19:34
+DB-74.JOHNSON.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\harpertyler,2026-08-30 15:57:34
+LT-27.FERNANDEZ-SMITH.COM,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\jessemorris,2026-08-06 17:56:46
+WEB-07.WEBSTER.NET,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\TEMP_hannahhancock,2026-08-02 02:34:41
+LT-64.MOSLEY.COM,A member was added to a security-enabled local group,Domain Admins,DEV\nancymurray,2026-08-27 10:29:17
+DB-92.FOX.ORG,Logon failure,Remote Desktop Users,DEV\andrew96,2026-08-12 23:20:07
+DESKTOP-75.BARTON.ORG,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\njohnson,2026-08-09 15:15:06
+DB-63.LOGAN.ORG,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\gyang,2026-08-23 17:53:39
+SRV-61.WHITEHEAD.COM,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\brittany92,2026-08-02 15:33:26
+SRV-23.POWELL.COM,A member was added to a security-enabled local group,IT_Helpdesk,CORP\dennisjohnson,2026-08-11 15:04:43
+LT-10.SLOAN.COM,Logon failure,Remote Desktop Users,DEV\zachary74,2026-08-04 07:29:55
+DB-69.MITCHELL-FOLEY.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\nathan82,2026-08-04 17:22:38
+DESKTOP-29.GRAVES.BIZ,A member was added to a security-enabled local group,IT_Helpdesk,CORP\jonesnatasha,2026-08-08 05:59:24
+LAPTOP-95.THOMAS.COM,User account locked out,Remote Desktop Users,DEV\danielmaldonado,2026-08-26 13:06:00
+SRV-89.MARTIN.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\leejanice,2026-08-14 01:45:55
+DB-17.HALE.COM,User account locked out,Marketing_Share,GUEST\eugene70,2026-08-21 05:03:40
+DB-51.DOUGLAS.NET,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\angel16,2026-08-13 20:21:08
+DB-13.NGUYEN.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\kanderson,2026-08-15 19:42:11
+DESKTOP-71.CRUZ.INFO,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\juanpena,2026-08-28 16:36:40
+EMAIL-02.HUFF.INFO,User account locked out,Marketing_Share,GUEST\sgutierrez,2026-08-08 18:01:05
+LT-96.VILLANUEVA.BIZ,A member was added to a security-enabled local group,Administrators,DEV\daniel86,2026-08-13 08:00:54
+DESKTOP-18.MCCANN-RAY.ORG,A member was added to a security-enabled local group,Remote Desktop Users,CORP\princecatherine,2026-08-18 17:42:53
+DB-72.YOUNG-ROBERTS.ORG,Logon failure,Administrators,DEV\carrie48,2026-08-30 02:59:49
+DB-32.CAMPOS-MARTIN.COM,Logon failure,All_Staff_Read_Only,GUEST\stanleytaylor,2026-08-13 16:54:11
+LAPTOP-79.MENDOZA.INFO,Logon failure,All_Staff_Read_Only,CORP\wandawalters,2026-08-29 02:12:45
+DB-36.HARVEY.COM,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\williampeck,2026-08-27 06:53:48
+EMAIL-76.WOODS.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\rodriguezkathy,2026-08-30 08:21:23
+SRV-13.FRANKLIN.COM,A member was added to a security-enabled global group,Administrators,DEV\martinezemily,2026-08-15 03:41:45
+WEB-54.GREENE-SELLERS.COM,A member was added to a security-enabled global group,Administrators,GUEST\debbiethompson,2026-08-03 07:39:08
+EMAIL-76.HOLMES.COM,A member was added to a security-enabled local group,Domain Admins,GUEST\michaeljackson,2026-08-26 05:50:12
+WEB-01.LESTER.INFO,Logon failure,IT_Helpdesk,GUEST\SVC_harperzachary,2026-08-07 09:29:28
+DESKTOP-55.JENKINS.ORG,A member was added to a security-enabled global group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\TEMP_natalie98,2026-08-25 05:25:17
+EMAIL-32.MURPHY-GRAHAM.BIZ,A member was removed from a security-enabled local group,Marketing_Share,CORP\holmesjessica,2026-08-11 08:41:05
+DESKTOP-98.FRANK-CRUZ.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\alexander30,2026-08-27 17:39:15
+LT-02.FORD.COM,A member was removed from a security-enabled local group,Domain Admins,DEV\ashleygalloway,2026-08-15 16:55:22
+EMAIL-59.PORTER-CRUZ.COM,Logon failure,Administrators,DEV\jessicakeller,2026-08-23 03:15:22
+DESKTOP-68.ROBINSON-HEATH.COM,Logon failure,All_Staff_Read_Only,CORP\hallregina,2026-08-23 23:42:31
+LAPTOP-42.HOLT.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\craigscott,2026-08-29 02:53:55
+WEB-52.COCHRAN.COM,Logon failure,Marketing_Share,CORP\charris,2026-08-27 16:35:57
+LT-49.REED.ORG,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\paulamartinez,2026-08-24 05:46:03
+EMAIL-97.DANIEL.COM,A member was removed from a security-enabled local group,Domain Admins,GUEST\SVC_martinkevin,2026-08-20 23:17:00
+LT-25.ALVAREZ.BIZ,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\wscott,2026-08-15 23:33:58
+EMAIL-15.RODRIGUEZ.BIZ,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\jeffreymiller,2026-08-09 15:43:56
+EMAIL-73.HEBERT.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\khancock,2026-08-08 15:45:49
+SRV-93.WILSON.COM,User account locked out,IT_Helpdesk,GUEST\scottrodgers,2026-08-22 01:35:27
+DESKTOP-55.ELLIS.COM,A member was removed from a security-enabled local group,Marketing_Share,CORP\xwhite,2026-08-11 22:44:14
+DESKTOP-62.DOUGLAS.COM,User account locked out,Domain Admins,DEV\SVC_megan43,2026-08-01 05:39:58
+LAPTOP-40.PEREZ.NET,Logon failure,IT_Helpdesk,CORP\heather96,2026-08-06 05:22:01
+SRV-05.VAUGHN-LINDSEY.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\jamesandrea,2026-08-15 14:33:23
+SRV-04.RICE-COOK.ORG,A member was added to a security-enabled global group,Marketing_Share,GUEST\nhayden,2026-08-25 19:47:46
+DB-54.RAMIREZ.NET,User account locked out,Marketing_Share,GUEST\ryan67,2026-08-11 08:56:49
+EMAIL-83.RAMIREZ.NET,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\ewilson,2026-08-07 03:44:46
+LAPTOP-03.MALDONADO-CURTIS.COM,User account locked out,IT_Helpdesk,CORP\rcarr,2026-08-19 05:00:19
+EMAIL-89.BRYAN-RODRIGUEZ.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\heatherhodges,2026-08-09 20:33:39
+DESKTOP-43.MARTIN-MURPHY.COM,User account locked out,Marketing_Share,GUEST\kimberlyli,2026-08-30 10:10:54
+LAPTOP-64.BROWN.ORG,A member was added to a security-enabled local group,Remote Desktop Users,GUEST\jessica75,2026-08-07 10:38:11
+DESKTOP-77.GORDON-PATEL.ORG,A member was removed from a security-enabled local group,Administrators,GUEST\kyork,2026-08-15 08:10:12
+DB-86.CHUNG.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\wfreeman,2026-08-09 09:53:10
+LAPTOP-44.MORA.COM,Logon failure,Remote Desktop Users,CORP\rortega,2026-08-14 04:14:26
+SRV-23.ROBBINS.COM,A member was added to a security-enabled global group,Domain Admins,CORP\jenniferpatel,2026-08-05 06:40:13
+EMAIL-98.FIGUEROA-SILVA.ORG,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\johnday,2026-08-09 05:54:45
+WEB-73.HURLEY-HOLMES.COM,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\duranmelanie,2026-08-31 15:58:45
+LT-33.EDWARDS.COM,A member was removed from a security-enabled local group,Remote Desktop Users,DEV\lisakrueger,2026-08-06 07:06:41
+DESKTOP-66.BOOTH.ORG,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\mcintyretaylor,2026-08-17 17:34:51
+LAPTOP-64.AGUILAR.NET,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\jyoung,2026-08-09 11:08:25
+WEB-88.BROWN.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\yalvarado,2026-08-30 01:31:11
+LAPTOP-32.CHEN.COM,Logon failure,Domain Admins,GUEST\rlopez,2026-08-14 16:15:08
+EMAIL-44.GOMEZ.BIZ,User account locked out,Remote Desktop Users,GUEST\ujohnson,2026-08-27 04:42:10
+EMAIL-68.KEITH-CARPENTER.COM,Logon failure,Domain Admins,CORP\malloryingram,2026-08-28 12:02:06
+DESKTOP-09.KING.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\kevinhaney,2026-08-04 05:52:38
+DB-36.FOLEY-HARPER.NET,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\TEMP_jack34,2026-08-16 12:38:44
+LT-56.MARSHALL-GARDNER.COM,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\omaranderson,2026-08-17 11:21:40
+DESKTOP-86.PHILLIPS.COM,A member was removed from a security-enabled local group,Marketing_Share,DEV\cruzjenny,2026-08-08 09:14:01
+SRV-88.FOWLER.INFO,A member was added to a security-enabled local group,IT_Helpdesk,CORP\TEMP_smithjennifer,2026-08-28 10:22:15
+WEB-23.REYES.COM,Logon failure,Marketing_Share,DEV\davidwilson,2026-08-18 19:05:33
+LAPTOP-27.HANNA.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\velasquezashley,2026-08-20 03:18:11
+EMAIL-15.BLANKENSHIP.BIZ,A member was added to a security-enabled global group,Administrators,DEV\vanessa71,2026-08-23 17:37:48
+LAPTOP-65.CAMPOS-CUNNINGHAM.COM,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\mitchelljames,2026-08-23 23:58:46
+WEB-50.GARCIA.BIZ,User account locked out,Domain Admins,DEV\jennifer33,2026-08-30 22:38:48
+SRV-66.LARSON-PETERSEN.NET,A member was added to a security-enabled global group,Marketing_Share,CORP\adamsryan,2026-08-09 02:54:17
+WEB-70.CLARK.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,CORP\ihughes,2026-08-24 01:50:15
+DESKTOP-72.PATRICK.NET,Logon failure,Domain Admins,DEV\SVC_anthonywilliams,2026-08-24 14:03:37
+DB-59.NEAL.ORG,A member was added to a security-enabled local group,IT_Helpdesk,DEV\ashley74,2026-08-30 18:34:02
+DB-13.NELSON.BIZ,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\SVC_jamesvillanueva,2026-08-05 20:16:03
+LT-32.GREEN.INFO,Logon failure,Marketing_Share,DEV\cheyennemoore,2026-08-24 14:14:39
+DB-46.SMITH.NET,A member was added to a security-enabled global group,Domain Admins,GUEST\amanda44,2026-08-16 04:38:43
+WEB-53.DEAN.COM,Logon failure,Domain Admins,DEV\christinaparker,2026-08-20 05:02:29
+DESKTOP-33.THOMAS-KELLY.INFO,A member was added to a security-enabled local group,Marketing_Share,GUEST\ulopez,2026-08-09 22:12:55
+SRV-67.CLINE-CLARK.INFO,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_timothyhenderson,2026-08-24 16:51:49
+LAPTOP-70.ROGERS.NET,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_harriskevin,2026-08-31 13:40:56
+LAPTOP-64.TRAN.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\adamskenneth,2026-08-14 12:24:29
+LAPTOP-36.SPENCER.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\russell84,2026-08-02 01:59:19
+WEB-54.BROOKS.COM,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\zhickman,2026-08-30 10:34:37
+LAPTOP-49.HURLEY.INFO,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\moranandrew,2026-08-03 12:32:38
+LAPTOP-80.CRUZ.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\douglashogan,2026-08-23 13:04:43
+DB-95.POWELL-GILES.ORG,User account locked out,Marketing_Share,GUEST\knoxjennifer,2026-08-25 04:26:38
+LT-04.RAMOS.COM,A member was added to a security-enabled global group,Administrators,DEV\jamesdavis,2026-08-05 14:18:39
+EMAIL-62.SMITH-YATES.COM,A member was added to a security-enabled local group,Marketing_Share,DEV\peterbest,2026-08-26 10:37:01
+WEB-09.HERNANDEZ.BIZ,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\nowens,2026-08-03 19:46:43
+DB-94.MCDONALD-RAMIREZ.ORG,User account locked out,Marketing_Share,DEV\nancy43,2026-08-03 11:44:54
+WEB-75.GRIFFIN-LONG.COM,Logon failure,Domain Admins,GUEST\nicolelawrence,2026-08-08 03:26:58
+LAPTOP-06.MAY-SMITH.COM,Logon failure,IT_Helpdesk,GUEST\wardryan,2026-08-01 10:40:15
+DESKTOP-67.MEYER.COM,Logon failure,Remote Desktop Users,DEV\james84,2026-08-24 07:08:23
+WEB-21.CAMPBELL-ESPARZA.COM,User account locked out,Domain Admins,DEV\saunderspatrick,2026-08-13 09:22:45
+LT-16.WASHINGTON.BIZ,A member was added to a security-enabled local group,Administrators,DEV\SVC_michaelhendrix,2026-08-21 07:59:09
+LT-08.BURTON-GOMEZ.COM,A member was added to a security-enabled local group,Domain Admins,CORP\SVC_hilltiffany,2026-08-29 03:54:10
+EMAIL-15.COOPER.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\mromero,2026-08-29 07:53:54
+LAPTOP-78.RIVERA.COM,Logon failure,Remote Desktop Users,GUEST\SVC_cheryl97,2026-08-03 22:37:25
+DB-05.WATSON.COM,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\jeromegray,2026-08-30 01:36:26
+DESKTOP-82.HANSEN.ORG,A member was removed from a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\glopez,2026-08-12 05:18:46
+DESKTOP-23.PETERS.COM,A member was added to a security-enabled local group,Administrators,DEV\SVC_morgansweeney,2026-08-12 06:09:36
+WEB-51.KIM.COM,A member was added to a security-enabled local group,Marketing_Share,CORP\jacksoncynthia,2026-08-21 03:30:29
+DB-00.WEAVER.INFO,A member was added to a security-enabled local group,Remote Desktop Users,CORP\clinton75,2026-08-09 07:13:28
+LT-17.HOWARD.NET,User account locked out,All_Staff_Read_Only,CORP\katherineball,2026-08-11 21:59:03
+WEB-15.HENRY-NELSON.COM,A member was removed from a security-enabled local group,Marketing_Share,GUEST\amandastokes,2026-08-09 04:27:42
+LT-91.GILLESPIE.BIZ,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\edwinlittle,2026-08-12 17:52:47
+LT-07.KELLEY.COM,A member was added to a security-enabled local group,Remote Desktop Users,DEV\cobbmaria,2026-08-09 16:25:13
+WEB-41.BLACK.NET,User account locked out,Domain Admins,GUEST\SVC_jonathanrobinson,2026-08-25 18:24:58
+SRV-15.HERNANDEZ-CONTRERAS.COM,User account locked out,Administrators,GUEST\SVC_caitlin90,2026-08-24 06:33:47
+EMAIL-10.GARCIA.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\wmiller,2026-08-29 01:38:11
+EMAIL-24.PADILLA-HOOPER.COM,A member was added to a security-enabled local group,Domain Admins,CORP\SVC_ykelley,2026-08-13 12:51:47
+LT-93.MORTON-BALDWIN.COM,Logon failure,All_Staff_Read_Only,CORP\iporter,2026-08-30 15:35:36
+LAPTOP-21.DELEON-HOPKINS.BIZ,Logon failure,Remote Desktop Users,CORP\brandyjames,2026-08-01 06:55:10
+LT-14.JOHNSON-HARRIS.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\ojohnson,2026-08-23 18:10:58
+DESKTOP-66.GRIFFIN.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\jacksonsydney,2026-08-27 11:55:16
+WEB-50.SMITH.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\TEMP_thayes,2026-08-04 13:37:18
+EMAIL-42.MOORE.NET,User account locked out,IT_Helpdesk,CORP\cruzmichael,2026-08-06 22:33:04
+LAPTOP-13.FRANK-ARNOLD.ORG,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\iwhite,2026-08-11 17:28:47
+EMAIL-05.LANE-NGUYEN.BIZ,User account locked out,Remote Desktop Users,CORP\vincent16,2026-08-24 23:32:47
+DESKTOP-58.OWENS.COM,A member was added to a security-enabled local group,Remote Desktop Users,CORP\dsmall,2026-08-23 03:06:15
+SRV-87.ROBBINS.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,GUEST\TEMP_xsmith,2026-08-09 05:54:04
+LAPTOP-23.MATTHEWS.COM,User account locked out,Domain Admins,GUEST\daniel49,2026-08-30 22:22:59
+LAPTOP-49.TAYLOR-VALDEZ.BIZ,A member was added to a security-enabled global group,IT_Helpdesk,CORP\edominguez,2026-08-13 17:45:29
+SRV-73.ESPINOZA-LEWIS.COM,Logon failure,All_Staff_Read_Only,CORP\jessica11,2026-08-29 13:41:35
+LAPTOP-61.FIELDS-ERICKSON.NET,A member was added to a security-enabled global group,Domain Admins,GUEST\SVC_sward,2026-08-18 19:06:14
+DESKTOP-37.BROWN-AGUILAR.NET,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\jimmylopez,2026-08-26 04:42:08
+SRV-12.HOWELL.NET,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_arnoldjeremy,2026-08-26 08:42:17
+DB-49.ZIMMERMAN.ORG,User account locked out,All_Staff_Read_Only,CORP\lisacarter,2026-08-25 08:05:00
+LAPTOP-85.RICHARDSON.NET,A member was removed from a security-enabled local group,Marketing_Share,DEV\imiller,2026-08-22 08:55:46
+WEB-22.ROBINSON-LYNN.NET,A member was removed from a security-enabled local group,Domain Admins,CORP\SVC_pattoncharles,2026-08-12 06:07:17
+DB-02.DAVENPORT.COM,Logon failure,Remote Desktop Users,DEV\parsonscheryl,2026-08-13 00:33:11
+SRV-25.MORGAN.BIZ,User account locked out,Administrators,CORP\whitejacob,2026-08-21 06:49:23
+LAPTOP-94.MCKEE.COM,User account locked out,Domain Admins,GUEST\francesrocha,2026-08-19 13:16:57
+EMAIL-63.FRENCH.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\dennis50,2026-08-14 03:00:43
+DESKTOP-59.BURNETT.INFO,A member was added to a security-enabled local group,IT_Helpdesk,CORP\garyconway,2026-08-16 23:53:07
+EMAIL-23.HARRIS-SHANNON.COM,User account locked out,Remote Desktop Users,DEV\lancehernandez,2026-08-25 09:39:47
+DB-82.YOUNG.BIZ,A member was added to a security-enabled local group,Remote Desktop Users,DEV\TEMP_bthompson,2026-08-09 01:08:15
+DB-28.HALL.COM,Logon failure,All_Staff_Read_Only,CORP\hgarcia,2026-08-27 20:08:00
+LAPTOP-59.ROWLAND.BIZ,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\rperry,2026-08-10 00:51:41
+LAPTOP-90.BISHOP.ORG,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\elizabethjones,2026-08-08 10:26:57
+EMAIL-53.FLETCHER.COM,A member was added to a security-enabled global group,IT_Helpdesk,CORP\vanessajohnson,2026-08-15 14:55:39
+DESKTOP-86.KLEIN.INFO,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\nandrade,2026-08-29 14:04:41
+SRV-49.DANIELS.COM,A member was removed from a security-enabled local group,Domain Admins,CORP\dpeterson,2026-08-03 19:09:56
+LT-57.LUCAS.NET,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\lori99,2026-08-20 23:55:48
+LAPTOP-00.GONZALEZ.BIZ,Logon failure,Domain Admins,CORP\qhenry,2026-08-18 20:07:39
+EMAIL-85.LYNCH.NET,User account locked out,IT_Helpdesk,GUEST\gloria19,2026-08-17 08:14:13
+SRV-23.ROGERS-LEWIS.ORG,A member was removed from a security-enabled local group,Marketing_Share,GUEST\wesleymartin,2026-08-23 17:41:07
+DB-37.HARTMAN.COM,A member was added to a security-enabled global group,Administrators,DEV\raymond26,2026-08-24 01:50:09
+SRV-69.OBRIEN-WATTS.INFO,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\destiny81,2026-08-27 20:55:20
+LAPTOP-13.AUSTIN-PACE.COM,User account locked out,IT_Helpdesk,DEV\walkermichael,2026-08-09 22:29:22
+DB-38.GARRETT-RAMOS.BIZ,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\SVC_kristin75,2026-08-29 00:10:24
+DB-05.NIXON.ORG,Logon failure,Marketing_Share,OLD_DOMAIN.LEGACY.COM\jenniferharrison,2026-08-14 22:10:13
+LAPTOP-19.HOOD.COM,A member was removed from a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\SVC_mcbridethomas,2026-08-20 16:12:57
+LT-21.MARTIN-WILLIAMS.NET,User account locked out,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\amandasmith,2026-08-20 04:17:17
+DESKTOP-66.ADAMS-RICHARD.COM,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\qrobertson,2026-08-02 08:25:57
+DESKTOP-21.PETERS.ORG,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\shall,2026-08-13 23:09:15
+LAPTOP-51.DAVIS-LARSEN.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\lwilliams,2026-08-20 21:06:23
+SRV-13.BOYER.COM,A member was added to a security-enabled global group,Domain Admins,CORP\TEMP_karenanderson,2026-08-18 16:40:56
+LAPTOP-56.HOWARD-ESPINOZA.BIZ,A member was removed from a security-enabled local group,Marketing_Share,GUEST\hollywarner,2026-08-06 02:40:33
+EMAIL-76.WOODS.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\rodriguezkathy,2026-08-30 08:21:23
+WEB-84.THOMPSON.BIZ,A member was removed from a security-enabled local group,Administrators,GUEST\whitedebra,2026-08-24 10:39:24
+EMAIL-69.FISCHER.COM,A member was removed from a security-enabled local group,Remote Desktop Users,DEV\jessicaryan,2026-08-22 07:22:02
+EMAIL-14.JOHNSON.COM,Logon failure,Marketing_Share,CORP\erinweber,2026-08-04 00:03:13
+WEB-94.GONZALEZ-BOWERS.ORG,A member was removed from a security-enabled local group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\pattersontracey,2026-08-17 22:33:25
+SRV-64.MARSHALL.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\nancylewis,2026-08-13 04:47:55
+LAPTOP-26.GARCIA.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\SVC_kristenkelly,2026-08-20 16:53:17
+DB-96.JIMENEZ-CARLSON.ORG,A member was added to a security-enabled global group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\kingdylan,2026-08-07 10:31:01
+LT-39.SNYDER.INFO,User account locked out,Remote Desktop Users,GUEST\kathryn85,2026-08-30 16:30:57
+DB-11.BARNES.ORG,A member was added to a security-enabled local group,IT_Helpdesk,CORP\SVC_rebeccakennedy,2026-08-31 12:41:11
+LT-30.HOBBS.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\sheila77,2026-08-19 21:03:05
+EMAIL-92.BLACK-CLARK.COM,Logon failure,Domain Admins,DEV\johnrice,2026-08-21 17:09:43
+EMAIL-95.GILMORE.COM,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\henrycarpenter,2026-08-21 15:32:11
+WEB-31.COLLINS.NET,A member was removed from a security-enabled local group,Domain Admins,CORP\nicole51,2026-08-15 19:06:15
+SRV-63.BECKER.ORG,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\hurstbenjamin,2026-08-01 13:46:23
+WEB-70.BROWN-MURPHY.BIZ,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\SVC_teresa74,2026-08-19 10:37:56
+LAPTOP-70.JOHNSON.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\wheelerfrederick,2026-08-02 09:23:04
+LAPTOP-69.HERNANDEZ.INFO,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\diamondsandoval,2026-08-08 08:05:24
+WEB-52.HURLEY.COM,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\TEMP_ewright,2026-08-19 16:22:58
+WEB-12.PHILLIPS.COM,Logon failure,Remote Desktop Users,DEV\SVC_amysmith,2026-08-11 17:16:26
+WEB-33.SCHAEFER-MULLEN.COM,A member was added to a security-enabled global group,Domain Admins,OLD_DOMAIN.LEGACY.COM\ryanheather,2026-08-07 12:00:16
+WEB-24.WILLIAMS.NET,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\callen,2026-08-17 15:56:08
+WEB-51.GRIFFIN.INFO,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\sarah95,2026-08-08 02:35:50
+LT-94.SHEA.ORG,A member was added to a security-enabled global group,Administrators,CORP\hammondnicholas,2026-08-21 03:07:42
+DESKTOP-75.FREDERICK-PATRICK.INFO,A member was removed from a security-enabled local group,Domain Admins,DEV\wmckay,2026-08-10 02:05:50
+LT-81.GRAY.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\raymondshields,2026-08-23 15:40:13
+DESKTOP-19.WARE.INFO,User account locked out,Administrators,CORP\keith24,2026-08-03 15:36:40
+LAPTOP-65.CAMERON-PARK.INFO,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\TEMP_ocobb,2026-08-21 17:13:25
+EMAIL-18.HOWARD.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,GUEST\SVC_scottrobert,2026-08-04 17:08:23
+WEB-29.JONES-BURNS.COM,Logon failure,Marketing_Share,GUEST\SVC_efarrell,2026-08-27 02:42:37
+DESKTOP-23.RICHARDSON.ORG,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\brownstephen,2026-08-26 00:18:46
+DB-59.DORSEY.BIZ,A member was added to a security-enabled local group,Marketing_Share,DEV\TEMP_michael92,2026-08-02 16:07:10
+EMAIL-87.STEWART.COM,Logon failure,All_Staff_Read_Only,DEV\brownkathy,2026-08-11 08:26:19
+WEB-32.RUSSELL.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,GUEST\smithdonna,2026-08-25 03:45:57
+WEB-22.MURPHY-BOLTON.COM,Logon failure,Marketing_Share,GUEST\johnsonjohn,2026-08-14 17:36:09
+WEB-46.JORDAN.COM,Logon failure,IT_Helpdesk,GUEST\SVC_qlynch,2026-08-08 23:55:26
+LT-34.STRICKLAND.NET,User account locked out,IT_Helpdesk,GUEST\jessica46,2026-08-29 01:29:29
+SRV-77.STANLEY.ORG,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\mary94,2026-08-08 04:54:40
+WEB-56.VAZQUEZ-DIXON.COM,Logon failure,IT_Helpdesk,GUEST\wagnermichelle,2026-08-18 13:20:58
+WEB-63.BUTLER-RIVERS.ORG,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_hrobinson,2026-08-14 09:20:00
+LAPTOP-97.HINES-PEREZ.INFO,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\jamesaimee,2026-08-24 07:48:01
+DESKTOP-98.CHAN-DAVIDSON.NET,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\qvaughn,2026-08-06 06:10:02
+WEB-38.WALLACE-LAMBERT.COM,A member was added to a security-enabled local group,Domain Admins,CORP\SVC_woodjonathan,2026-08-26 17:23:39
+WEB-04.MOORE.COM,User account locked out,Administrators,CORP\kevinharris,2026-08-06 18:05:12
+DESKTOP-66.PAUL-LOPEZ.COM,User account locked out,Domain Admins,DEV\travisharrell,2026-08-05 23:55:24
+LAPTOP-42.HOLT.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\craigscott,2026-08-29 02:53:55
+WEB-90.GARRETT.COM,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\lisa18,2026-08-18 18:37:24
+LAPTOP-81.STEVENS.COM,A member was added to a security-enabled global group,Administrators,DEV\donalddaniel,2026-08-27 19:55:33
+DESKTOP-23.FOWLER.INFO,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\cameron27,2026-08-26 09:29:42
+LT-80.ANDERSON-ROBERSON.COM,A member was removed from a security-enabled local group,IT_Helpdesk,GUEST\carlosmendez,2026-08-26 23:00:18
+WEB-99.BENSON.ORG,Logon failure,Administrators,GUEST\joe93,2026-08-22 22:32:15
+LAPTOP-00.BRANDT.COM,Logon failure,Remote Desktop Users,CORP\danabishop,2026-08-23 19:24:56
+LT-98.ROBINSON.COM,A member was removed from a security-enabled local group,Marketing_Share,CORP\lancerubio,2026-08-23 03:44:20
+DESKTOP-09.GRAVES.COM,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\ortizsamantha,2026-08-01 09:39:44
+LAPTOP-50.HAYES.BIZ,A member was added to a security-enabled local group,IT_Helpdesk,CORP\jacob22,2026-08-13 08:03:16
+EMAIL-31.SANCHEZ.NET,Logon failure,Domain Admins,DEV\carsonsusan,2026-08-14 23:07:01
+SRV-72.WRIGHT.COM,User account locked out,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\SVC_lindawilliams,2026-08-28 08:48:45
+DESKTOP-41.DAWSON.BIZ,A member was added to a security-enabled global group,Domain Admins,GUEST\sandersantonio,2026-08-12 20:39:24
+DESKTOP-16.TORRES.INFO,A member was added to a security-enabled global group,Remote Desktop Users,DEV\awalker,2026-08-26 14:13:21
+DB-99.LARA.INFO,User account locked out,Remote Desktop Users,CORP\todd22,2026-08-17 01:29:22
+WEB-46.HORNE.COM,A member was added to a security-enabled local group,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\SVC_christopherclark,2026-08-04 06:27:03
+SRV-87.BERRY.COM,Logon failure,Administrators,CORP\smithamy,2026-08-30 19:44:43
+DESKTOP-04.FLEMING.ORG,A member was added to a security-enabled global group,Administrators,CORP\brownkari,2026-08-08 00:50:39
+WEB-29.ALLEN.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\tracy16,2026-08-08 03:21:07
+LT-65.BECK-GILES.COM,Logon failure,IT_Helpdesk,DEV\lynncarr,2026-08-11 13:28:12
+LT-10.HEBERT.COM,Logon failure,Administrators,CORP\rosswilliam,2026-08-27 16:40:17
+LT-40.BURTON.NET,A member was added to a security-enabled local group,Domain Admins,CORP\SVC_floreswilliam,2026-08-22 08:55:22
+EMAIL-85.SMALL.NET,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\pcortez,2026-08-26 14:47:03
+DESKTOP-60.FREEMAN-HOOD.COM,A member was removed from a security-enabled local group,Administrators,GUEST\erinclark,2026-08-18 20:08:58
+WEB-00.BROWN.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\ggreen,2026-08-05 20:58:25
+EMAIL-42.MOORE.NET,User account locked out,IT_Helpdesk,CORP\cruzmichael,2026-08-06 22:33:04
+DESKTOP-47.BARNES-SANDERS.NET,User account locked out,Domain Admins,GUEST\mirandanicholson,2026-08-03 20:51:51
+DESKTOP-34.LEWIS.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\hardybrandon,2026-08-12 17:49:01
+EMAIL-01.VASQUEZ-GARCIA.COM,User account locked out,IT_Helpdesk,GUEST\abarr,2026-08-13 16:48:31
+DB-97.ROBINSON-BROWN.ORG,A member was added to a security-enabled global group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\khubbard,2026-08-17 04:09:36
+DB-71.HOUSTON.NET,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\dsanchez,2026-08-29 06:57:16
+LAPTOP-98.CLARK.ORG,Logon failure,IT_Helpdesk,CORP\amy74,2026-08-23 14:29:27
+WEB-79.JONES.COM,Logon failure,Marketing_Share,CORP\joshuadunn,2026-08-30 18:54:40
+DB-93.MOORE-HARRIS.COM,A member was added to a security-enabled local group,IT_Helpdesk,DEV\SVC_amydougherty,2026-08-27 07:16:13
+EMAIL-08.CONWAY.COM,Logon failure,IT_Helpdesk,CORP\sshaw,2026-08-17 03:54:59
+DESKTOP-62.ROY.COM,Logon failure,Marketing_Share,CORP\cglass,2026-08-11 17:19:50
+LT-73.SMITH.NET,User account locked out,Remote Desktop Users,CORP\tamara93,2026-08-18 00:44:23
+DESKTOP-45.FREDERICK.COM,A member was removed from a security-enabled local group,Administrators,GUEST\oweaver,2026-08-04 04:12:15
+DB-39.SMITH-VASQUEZ.COM,A member was added to a security-enabled global group,Remote Desktop Users,DEV\michaeladams,2026-08-29 15:59:31
+LAPTOP-50.TAYLOR-HUTCHINSON.BIZ,User account locked out,Administrators,DEV\hkelly,2026-08-15 19:35:07
+DB-93.NIELSEN.COM,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\holly03,2026-08-14 13:01:02
+LT-84.ROGERS-PARKS.COM,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\ysmith,2026-08-01 10:57:02
+SRV-99.WELLS.NET,A member was removed from a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\norma95,2026-08-28 17:17:14
+SRV-04.HARRIS.INFO,A member was removed from a security-enabled local group,All_Staff_Read_Only,CORP\SVC_ctaylor,2026-08-09 06:37:19
+DB-71.DAVIS.NET,A member was added to a security-enabled local group,All_Staff_Read_Only,CORP\TEMP_ypatrick,2026-08-16 13:04:11
+EMAIL-94.SMITH.INFO,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\brenda69,2026-08-13 09:46:09
+DB-31.CARPENTER.COM,User account locked out,IT_Helpdesk,CORP\TEMP_dana02,2026-08-19 10:40:10
+DESKTOP-65.BELL-HALE.INFO,Logon failure,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\susanhernandez,2026-08-01 20:29:14
+WEB-87.HENDRICKS.COM,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\rebecca03,2026-08-30 01:13:29
+LT-07.YORK-MOON.COM,User account locked out,Remote Desktop Users,CORP\SVC_alee,2026-08-23 06:53:12
+SRV-40.WHITE.COM,A member was removed from a security-enabled local group,Domain Admins,GUEST\ncampbell,2026-08-30 18:21:09
+WEB-20.CISNEROS-VAZQUEZ.COM,Logon failure,Domain Admins,CORP\donnawise,2026-08-13 02:25:28
+LAPTOP-41.SANCHEZ.BIZ,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\lcarter,2026-08-02 09:20:57
+EMAIL-53.VARGAS.COM,A member was added to a security-enabled global group,Remote Desktop Users,DEV\ashley81,2026-08-12 15:24:25
+LT-50.BROWN.COM,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\SVC_tholt,2026-08-01 03:20:11
+DB-65.RODRIGUEZ-LOGAN.COM,A member was added to a security-enabled local group,Domain Admins,DEV\kimmason,2026-08-09 09:04:09
+WEB-08.TAYLOR-WEAVER.BIZ,User account locked out,Marketing_Share,OLD_DOMAIN.LEGACY.COM\mtaylor,2026-08-28 12:27:40
+LAPTOP-04.SCOTT-MCGRATH.COM,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\adamdavis,2026-08-04 17:58:25
+DB-36.WALKER.NET,A member was removed from a security-enabled local group,Domain Admins,DEV\mjohnson,2026-08-15 07:34:57
+LAPTOP-25.LIN.COM,A member was added to a security-enabled local group,Marketing_Share,CORP\dawnsmith,2026-08-27 03:19:41
+LAPTOP-70.SHORT.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,DEV\tara76,2026-08-23 15:53:55
+DESKTOP-15.BELL.BIZ,User account locked out,Remote Desktop Users,CORP\wesley28,2026-08-30 08:26:02
+EMAIL-35.NUNEZ.COM,User account locked out,All_Staff_Read_Only,CORP\santanamichael,2026-08-20 10:49:07
+WEB-79.GUTIERREZ.BIZ,Logon failure,Remote Desktop Users,GUEST\malloryhall,2026-08-30 10:56:53
+WEB-83.JOHNSON.NET,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\vrodgers,2026-08-06 20:14:45
+LAPTOP-48.WEBER.COM,A member was added to a security-enabled global group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\daniellejones,2026-08-16 02:48:09
+LAPTOP-17.CURRY-WILSON.COM,A member was added to a security-enabled global group,Administrators,OLD_DOMAIN.LEGACY.COM\vruiz,2026-08-30 10:59:29
+DESKTOP-22.PETERSON.COM,Logon failure,Domain Admins,GUEST\yeseniamcmillan,2026-08-27 07:22:58
+SRV-58.TERRY.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\SVC_hollydillon,2026-08-09 19:23:57
+LAPTOP-92.BROWN.COM,User account locked out,Administrators,DEV\TEMP_deborah74,2026-08-02 03:52:02
+EMAIL-21.MEJIA-ALLEN.NET,A member was removed from a security-enabled local group,Domain Admins,GUEST\kflores,2026-08-08 10:51:11
+EMAIL-09.EVANS.NET,A member was added to a security-enabled local group,IT_Helpdesk,DEV\harmonchristine,2026-08-05 17:46:32
+WEB-84.BURGESS-THOMAS.BIZ,User account locked out,Remote Desktop Users,CORP\SVC_crossalicia,2026-08-22 04:50:39
+LAPTOP-85.BLACKWELL.COM,Logon failure,Administrators,DEV\dmullen,2026-08-31 08:11:08
+WEB-17.SINGLETON.COM,User account locked out,Domain Admins,GUEST\patrickberry,2026-08-30 11:37:07
+DB-25.BROOKS.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\hollowaymark,2026-08-29 02:12:24
+LT-46.WILSON.COM,Logon failure,Administrators,DEV\batesjason,2026-08-23 19:50:09
+LT-88.GARDNER.COM,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\treese,2026-08-20 01:03:46
+LAPTOP-27.MILLER.NET,A member was added to a security-enabled global group,Remote Desktop Users,DEV\wernerperry,2026-08-26 07:08:54
+WEB-92.SANTIAGO.COM,A member was removed from a security-enabled local group,Remote Desktop Users,GUEST\lawsonchad,2026-08-27 15:13:39
+DB-82.ORR.COM,A member was added to a security-enabled global group,Domain Admins,DEV\uperez,2026-08-24 03:11:03
+EMAIL-65.WALLACE.COM,Logon failure,All_Staff_Read_Only,CORP\crossconnor,2026-08-23 05:27:08
+DB-78.COOK.COM,User account locked out,IT_Helpdesk,DEV\ariley,2026-08-22 22:00:50
+LT-09.WARD-NELSON.NET,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\gjohnson,2026-08-11 07:24:32
+SRV-98.RUSSELL-FISCHER.COM,A member was added to a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\valerie74,2026-08-27 18:04:48
+WEB-32.MORENO-CHANDLER.COM,A member was added to a security-enabled local group,IT_Helpdesk,DEV\andregonzalez,2026-08-19 14:40:16
+DB-30.FOSTER.COM,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\murillosusan,2026-08-04 14:32:13
+LT-08.LAMBERT-STRICKLAND.ORG,A member was added to a security-enabled global group,Remote Desktop Users,GUEST\silvasherry,2026-08-19 12:49:09
+LT-11.ALVAREZ.ORG,A member was added to a security-enabled global group,IT_Helpdesk,GUEST\sarah76,2026-08-14 12:10:47
+DB-96.GARCIA.COM,A member was removed from a security-enabled local group,Remote Desktop Users,DEV\SVC_epowell,2026-08-26 20:29:10
+LT-94.MORGAN.COM,A member was removed from a security-enabled local group,All_Staff_Read_Only,GUEST\SVC_rpatton,2026-08-18 17:40:40
+LAPTOP-50.CARLSON.ORG,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\SVC_beannicole,2026-08-06 14:42:57
+LAPTOP-15.RYAN-CURTIS.COM,A member was added to a security-enabled local group,Administrators,CORP\SVC_troybrown,2026-08-09 14:01:48
+DESKTOP-54.COOK.COM,A member was removed from a security-enabled local group,Remote Desktop Users,CORP\dylan35,2026-08-30 03:25:09
+LT-96.THOMPSON-THOMPSON.BIZ,A member was added to a security-enabled global group,All_Staff_Read_Only,CORP\kristen72,2026-08-01 18:52:46
+LT-98.THOMPSON.ORG,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\thomas91,2026-08-07 04:35:06
+LAPTOP-36.FRANCO.COM,A member was added to a security-enabled global group,Domain Admins,DEV\josephmathew,2026-08-24 22:35:14
+EMAIL-24.POTTS.COM,A member was added to a security-enabled local group,IT_Helpdesk,CORP\marcokaufman,2026-08-01 13:14:37
+EMAIL-59.BOWEN.NET,A member was added to a security-enabled global group,All_Staff_Read_Only,DEV\patrickharvey,2026-08-15 15:32:44
+EMAIL-02.HUFF.INFO,User account locked out,Marketing_Share,GUEST\sgutierrez,2026-08-08 18:01:05
+WEB-44.DIAZ-MURRAY.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\mooreemily,2026-08-12 12:37:18
+DB-76.BENNETT.COM,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\ghall,2026-08-12 17:44:21
+WEB-34.DICKERSON.BIZ,User account locked out,IT_Helpdesk,CORP\SVC_nwilliams,2026-08-25 13:14:31
+DB-77.TERRY.ORG,User account locked out,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\erin64,2026-08-10 14:01:55
+LT-11.MEDINA.COM,A member was removed from a security-enabled local group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\oschmitt,2026-08-25 23:00:26
+LT-88.MOORE-HUDSON.COM,A member was added to a security-enabled global group,Remote Desktop Users,CORP\michael89,2026-08-16 22:18:38
+WEB-98.MONTOYA.COM,A member was added to a security-enabled local group,Administrators,CORP\SVC_jdennis,2026-08-13 07:18:47
+EMAIL-84.MCCARTHY.ORG,A member was added to a security-enabled local group,All_Staff_Read_Only,DEV\wrightmegan,2026-08-19 11:13:23
+WEB-50.GARCIA.BIZ,User account locked out,Domain Admins,DEV\jennifer33,2026-08-30 22:38:48
+DB-93.GUERRA-GRANT.COM,A member was removed from a security-enabled local group,IT_Helpdesk,DEV\woodsaudrey,2026-08-15 18:28:18
+DB-94.FITZGERALD.COM,A member was added to a security-enabled global group,Domain Admins,DEV\winterslaurie,2026-08-27 04:20:22
+DESKTOP-27.VARGAS.ORG,User account locked out,All_Staff_Read_Only,GUEST\TEMP_karen51,2026-08-11 12:02:17
+DESKTOP-10.SMITH.COM,A member was added to a security-enabled global group,All_Staff_Read_Only,OLD_DOMAIN.LEGACY.COM\kathleencunningham,2026-08-12 23:36:31
+WEB-80.COLE.INFO,A member was added to a security-enabled global group,Domain Admins,DEV\anthonysimmons,2026-08-01 06:03:38
+DB-35.WATKINS-REILLY.COM,A member was added to a security-enabled global group,IT_Helpdesk,OLD_DOMAIN.LEGACY.COM\anthony21,2026-08-27 04:03:43
+WEB-61.SIMMONS-GARCIA.COM,A member was removed from a security-enabled local group,IT_Helpdesk,CORP\SVC_contrerasanthony,2026-08-17 03:37:19
+LT-95.BLAKE-DIXON.INFO,A member was added to a security-enabled local group,Administrators,OLD_DOMAIN.LEGACY.COM\rjohnson,2026-08-27 08:59:17
+LAPTOP-03.FOSTER.ORG,A member was added to a security-enabled local group,Remote Desktop Users,CORP\samuel66,2026-08-18 23:12:41
+EMAIL-16.HULL.BIZ,A member was removed from a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\amymiller,2026-08-18 15:35:52
+EMAIL-77.GRAHAM-THOMAS.COM,User account locked out,All_Staff_Read_Only,GUEST\SVC_alyssastrickland,2026-08-06 03:04:07
+DESKTOP-79.SMITH-HUGHES.INFO,Logon failure,Domain Admins,OLD_DOMAIN.LEGACY.COM\martinezcorey,2026-08-26 01:35:37
+LAPTOP-12.STEWART.INFO,User account locked out,IT_Helpdesk,GUEST\SVC_mia23,2026-08-09 20:33:45
+DESKTOP-23.GORDON-WILLIAMS.COM,A member was added to a security-enabled local group,Remote Desktop Users,DEV\SVC_ariel51,2026-08-29 14:02:56
+DESKTOP-18.MYERS.COM,A member was added to a security-enabled local group,Marketing_Share,OLD_DOMAIN.LEGACY.COM\rmann,2026-08-22 20:59:27
+LT-46.BROOKS-LIVINGSTON.ORG,A member was added to a security-enabled global group,Marketing_Share,CORP\kevin72,2026-08-02 17:08:44
+EMAIL-00.ALEXANDER.ORG,A member was added to a security-enabled local group,IT_Helpdesk,GUEST\ulove,2026-08-12 17:31:46
+DB-86.SMITH-MAY.BIZ,A member was added to a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\justin39,2026-08-18 11:52:48
+LAPTOP-05.JOHNSON-MORRISON.COM,A member was added to a security-enabled local group,Domain Admins,OLD_DOMAIN.LEGACY.COM\philiplopez,2026-08-13 18:46:55
+SRV-27.AGUILAR.COM,User account locked out,Administrators,OLD_DOMAIN.LEGACY.COM\vhawkins,2026-08-07 22:39:22
+DB-68.TUCKER.COM,Logon failure,Remote Desktop Users,OLD_DOMAIN.LEGACY.COM\michelemurphy,2026-08-30 15:58:09
+DESKTOP-71.MILLS.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\bensonmartha,2026-08-24 15:40:42
+WEB-22.HINES.COM,A member was added to a security-enabled global group,Marketing_Share,CORP\butleredward,2026-08-08 04:12:52
+EMAIL-81.MARTIN.COM,A member was added to a security-enabled global group,Domain Admins,GUEST\melanieatkins,2026-08-20 11:37:24
+DESKTOP-41.JOHNSON-MARTIN.NET,User account locked out,IT_Helpdesk,CORP\TEMP_brendamorgan,2026-08-22 12:23:47
+LT-08.TAYLOR.BIZ,A member was added to a security-enabled global group,IT_Helpdesk,CORP\SVC_tonifowler,2026-08-13 15:34:32
+DESKTOP-62.MONTGOMERY.ORG,Logon failure,Administrators,OLD_DOMAIN.LEGACY.COM\elucas,2026-08-13 00:32:08
+SRV-73.CAREY.COM,A member was removed from a security-enabled local group,Administrators,GUEST\benjaminwhite,2026-08-24 22:44:59
+EMAIL-61.JACKSON.COM,A member was added to a security-enabled global group,Marketing_Share,GUEST\mendezmatthew,2026-08-19 20:59:45
+DB-05.MCKENZIE.COM,User account locked out,Domain Admins,OLD_DOMAIN.LEGACY.COM\kholden,2026-08-17 14:57:13
