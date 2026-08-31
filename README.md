@@ -8,70 +8,90 @@
 **Live Demo:** [Launch the Interactive Dashboard](https://audit-report-automator.streamlit.app/)
 
 ### Dashboard Preview
-![Streamlit Dashboard](dashboard.png)
+
+![Streamlit Dashboard](https://github.com/siddy53-ui/access-audit-processor/raw/main/dashboard.png)
 
 ## 📌 Project Overview
-This framework can be easily adapted to automate repetitive manual task, reporting, process data, and build visualizations across any industry.
 
-## 💡 Business Impact & ROI: Return on Investment
-This automation was engineered to resolve a critical operational bottleneck. Previously, processing these complex security datasets required **90 minutes of daily manual effort** per team member and involved over **30 repetitive steps** in Excel, making the process highly susceptible to human error. 
+This framework automates a repetitive, error-prone manual audit process and can be adapted to automate reporting, data processing, and visualization workflows across any industry that relies on manual spreadsheet-based compliance checks.
 
-By replacing this manual workflow with a vectorized Python pipeline, the reporting process was reduced to seconds. This completely eliminates data manipulation errors, ensures strict compliance consistency, and recovers hundreds of hours of valuable engineering time annually.
+## 💡 Business Impact & ROI
 
-The **Enterprise Access Auditor** is an automated data processing and visualization pipeline designed to replace manual, error-prone spreadsheet tasks in enterprise compliance. It ingests raw server access logs, applies complex business exclusion rules using vectorized operations, visualizes the data distribution, and generates a structured, multi-tab audit workbook.
+This automation was engineered to resolve a critical operational bottleneck. Previously, processing these complex security datasets required **90 minutes of daily manual effort** per team member and involved over **30 repetitive steps** in Excel, making the process highly susceptible to human error.
 
-This project demonstrates scalable **Data Automation** and **Interactive Visualization**, highlighting how raw operational data can be rapidly transformed into actionable compliance intelligence.
+By replacing this manual workflow with a vectorized Python pipeline, the reporting process was reduced to seconds. This eliminates data manipulation errors, ensures consistent compliance output, and recovers significant engineering time annually.
+
+The **Enterprise Access Auditor** is an automated data processing and visualization pipeline designed to replace manual, error-prone spreadsheet tasks in enterprise compliance. It ingests raw server access logs, applies business exclusion rules using vectorized operations, visualizes the data distribution, and generates a structured, multi-tab audit workbook.
+
+This project demonstrates practical **data automation** and **interactive visualization**, showing how raw operational data can be rapidly transformed into actionable compliance intelligence.
 
 ## 🏗️ Architecture & Tech Stack
-This tool is built entirely in Python, leveraging industry-standard data engineering and front-end frameworks:
-* **Pandas:** Powers the core data engine. Utilizes vectorized string parsing and boolean masking to process thousands of records efficiently without expensive `for` loops.
-* **Streamlit:** Drives the interactive web UI, providing instant data visualization (bar charts and metric cards) and dynamic file handling.
-* **OpenPyXL:** Handles the programmatic generation of multi-sheet Excel reports, segregating data into Business As Usual (BAU), Exclusions, and Duplicates.
-* **Faker:** Used to generate synthetic, anonymized enterprise datasets for safe local testing and demonstration.
+
+Built entirely in Python, using industry-standard data and front-end libraries:
+
+- **Pandas** — Core data engine. Uses vectorized string parsing and boolean masking to process thousands of records efficiently without expensive `for` loops.
+- **Streamlit** — Drives the interactive web UI, providing instant data visualization (bar charts and metric cards) and dynamic file handling.
+- **OpenPyXL** — Handles programmatic generation of multi-sheet Excel reports, segregating data into Business As Usual (BAU), Exclusions, and Duplicates.
+- **Faker** — Generates synthetic, anonymized enterprise datasets for safe local testing and demonstration (no real audit data is used or required).
 
 ## ✨ Key Features
-1. **Vectorized Data Pipeline:** Instantly parses complex strings (e.g., `DOMAIN\User`) and filters records based on target activities and specific security groups.
-2. **Automated Data Triage:** Intelligently routes data into distinct categories:
-   * **Valid Records (BAU):** Clean data ready for compliance tracking.
-   * **Exclusions:** Automatically flags service accounts (e.g., `svc-*`) and domain administrators.
-   * **Duplicates:** Detects and separates redundant log entries.
-3. **Interactive Visualizations:** Renders pre-download metric summaries and bar charts natively in the browser, allowing analysts to verify data integrity at a glance.
-4. **Synthetic Data Generator:** Includes a standalone module to spin up realistic, randomized CSV test logs containing intentional noise and edge cases.
-5. **Zero-Data Exfiltration (Local Execution):** Designed to comply with strict enterprise security policies. The entire Streamlit application and Pandas processing engine can run 100% locally  without an internet connection, ensuring confidential corporate audit logs never leave the internal network.
+
+1. **Vectorized data pipeline** — Parses complex strings (e.g. `DOMAIN\User`) and filters records based on target activities and specific security groups.
+2. **Automated data triage** — Intelligently routes records into distinct categories:
+   - **Valid records (BAU):** Clean data ready for compliance tracking.
+   - **Exclusions:** Automatically flags service accounts (e.g. `svc-*`) and domain administrators.
+   - **Duplicates:** Detects and separates redundant log entries.
+3. **Interactive visualizations** — Renders metric summaries and bar charts natively in the browser, so analysts can verify data integrity before download.
+4. **Synthetic data generator** — Standalone module that spins up realistic, randomized CSV test logs with intentional noise and edge cases.
+5. **Zero-data-exfiltration (local execution)** — Designed for strict enterprise security requirements. The Streamlit app and Pandas processing engine run entirely locally; confidential audit logs never need to leave the internal network.
 
 ## 🚀 How to Run Locally
 
 **1. Clone the repository**
+
 ```bash
-git clone [https://github.com/YourUsername/access-audit-processor.git](https://github.com/YourUsername/access-audit-processor.git)
+git clone https://github.com/siddy53-ui/access-audit-processor.git
 cd access-audit-processor
+```
 
-2. Create a virtual environment and install dependencies
+**2. Create a virtual environment and install dependencies**
 
+```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
-3. Generate synthetic test data
+**3. Generate synthetic test data**
 
-python generate_fake_data.py
-(This will generate a mock_audit_report.csv file in your root directory).
+```bash
+python generate_test_data.py
+```
 
-4. Launch the application
+This generates a synthetic audit log CSV (`synthetic_audit_logs.csv`) in the root directory.
 
+**4. Launch the application**
+
+```bash
 streamlit run app.py
+```
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-├── app.py                  # Streamlit UI, visual routing, and file handling
-├── process_report.py       # Core Pandas data transformation logic
-├── generate_fake_data.py   # Faker script to generate synthetic CSV logs
-├── requirements.txt        # Deployment dependencies
-└── README.md               # Project documentation
+```
+├── app.py                     # Streamlit UI, visual routing, and file handling
+├── process_audit.py           # Core Pandas data transformation logic
+├── generate_test_data.py      # Faker script to generate synthetic CSV logs
+├── synthetic_audit_logs.csv   # Sample generated test data
+├── dashboard.png              # Dashboard preview image
+├── requirements.txt           # Deployment dependencies
+└── README.md                  # Project documentation
+```
 
+## 👨‍💻 Author
 
-👨‍💻 Author
 **Sourav Dutta**
-* **LinkedIn:** [Sourav Dutta](https://www.linkedin.com/in/sourav-dutta-15314b430)
-* **Focus:** Data Automation | Python Engineering | Data Visualization
+- **LinkedIn:** [Sourav Dutta](https://www.linkedin.com/in/sourav-dutta-15314b430)
+- **Focus:** Data Automation | Python Engineering | Data Visualization
+
 
